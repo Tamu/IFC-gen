@@ -30,7 +30,7 @@ import {IfcPlateTypeEnum} from "./IfcPlateTypeEnum.g"
 import {IfcPlate} from "./IfcPlate.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcplatestandardcase.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcplatestandardcase.htm
  */
 export class IfcPlateStandardCase extends IfcPlate {
 

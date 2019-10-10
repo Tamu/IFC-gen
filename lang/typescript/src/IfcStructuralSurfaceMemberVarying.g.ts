@@ -22,7 +22,7 @@ import {IfcPositiveLengthMeasure} from "./IfcPositiveLengthMeasure.g"
 import {IfcStructuralSurfaceMember} from "./IfcStructuralSurfaceMember.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcstructuralsurfacemembervarying.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcstructuralsurfacemembervarying.htm
  */
 export class IfcStructuralSurfaceMemberVarying extends IfcStructuralSurfaceMember {
 

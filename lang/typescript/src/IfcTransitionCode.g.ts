@@ -1,3 +1,3 @@
 
-//http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifctransitioncode.htm
+//https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifctransitioncode.htm
 export enum IfcTransitionCode {DISCONTINUOUS=".DISCONTINUOUS.",CONTINUOUS=".CONTINUOUS.",CONTSAMEGRADIENT=".CONTSAMEGRADIENT.",CONTSAMEGRADIENTSAMECURVATURE=".CONTSAMEGRADIENTSAMECURVATURE."}

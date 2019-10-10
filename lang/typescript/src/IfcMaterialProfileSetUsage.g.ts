@@ -7,7 +7,7 @@ import {IfcPositiveLengthMeasure} from "./IfcPositiveLengthMeasure.g"
 import {IfcMaterialUsageDefinition} from "./IfcMaterialUsageDefinition.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcmaterialprofilesetusage.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcmaterialprofilesetusage.htm
  */
 export class IfcMaterialProfileSetUsage extends IfcMaterialUsageDefinition {
 	ForProfileSet : IfcMaterialProfileSet

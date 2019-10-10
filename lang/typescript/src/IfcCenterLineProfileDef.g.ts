@@ -9,7 +9,7 @@ import {IfcPositiveLengthMeasure} from "./IfcPositiveLengthMeasure.g"
 import {IfcArbitraryOpenProfileDef} from "./IfcArbitraryOpenProfileDef.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifccenterlineprofiledef.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifccenterlineprofiledef.htm
  */
 export class IfcCenterLineProfileDef extends IfcArbitraryOpenProfileDef {
 	Thickness : IfcPositiveLengthMeasure

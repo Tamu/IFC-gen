@@ -10,7 +10,7 @@ import {IfcSequenceEnum} from "./IfcSequenceEnum.g"
 import {IfcRelConnects} from "./IfcRelConnects.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcrelsequence.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcrelsequence.htm
  */
 export class IfcRelSequence extends IfcRelConnects {
 	RelatingProcess : IfcProcess

@@ -9,7 +9,7 @@ import {IfcNamedUnit} from "./IfcNamedUnit.g"
 import {IfcReference} from "./IfcReference.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifctablecolumn.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifctablecolumn.htm
  */
 export class IfcTableColumn extends BaseIfc {
 	Identifier : IfcIdentifier // optional

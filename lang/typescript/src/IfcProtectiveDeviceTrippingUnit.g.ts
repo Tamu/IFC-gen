@@ -32,7 +32,7 @@ import {IfcProtectiveDeviceTrippingUnitTypeEnum} from "./IfcProtectiveDeviceTrip
 import {IfcDistributionControlElement} from "./IfcDistributionControlElement.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcprotectivedevicetrippingunit.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcprotectivedevicetrippingunit.htm
  */
 export class IfcProtectiveDeviceTrippingUnit extends IfcDistributionControlElement {
 	PredefinedType : IfcProtectiveDeviceTrippingUnitTypeEnum // optional

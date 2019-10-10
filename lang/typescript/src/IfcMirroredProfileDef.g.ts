@@ -9,7 +9,7 @@ import {IfcCartesianTransformationOperator2D} from "./IfcCartesianTransformation
 import {IfcDerivedProfileDef} from "./IfcDerivedProfileDef.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcmirroredprofiledef.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcmirroredprofiledef.htm
  */
 export class IfcMirroredProfileDef extends IfcDerivedProfileDef {
 

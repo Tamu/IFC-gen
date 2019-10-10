@@ -6,7 +6,7 @@ import {IfcVertex} from "./IfcVertex.g"
 import {IfcEdge} from "./IfcEdge.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcsubedge.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcsubedge.htm
  */
 export class IfcSubedge extends IfcEdge {
 	ParentEdge : IfcEdge

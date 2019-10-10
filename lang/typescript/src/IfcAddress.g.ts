@@ -7,7 +7,7 @@ import {IfcPerson} from "./IfcPerson.g"
 import {IfcOrganization} from "./IfcOrganization.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcaddress.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcaddress.htm
  */
 export abstract class IfcAddress extends BaseIfc {
 	Purpose : IfcAddressTypeEnum // optional

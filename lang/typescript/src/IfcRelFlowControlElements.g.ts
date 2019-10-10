@@ -9,7 +9,7 @@ import {IfcDistributionFlowElement} from "./IfcDistributionFlowElement.g"
 import {IfcRelConnects} from "./IfcRelConnects.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcrelflowcontrolelements.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcrelflowcontrolelements.htm
  */
 export class IfcRelFlowControlElements extends IfcRelConnects {
 	RelatedControlElements : Array<IfcDistributionControlElement>

@@ -114,7 +114,7 @@ import {IfcArithmeticOperatorEnum} from "./IfcArithmeticOperatorEnum.g"
 import {IfcExternalReferenceRelationship} from "./IfcExternalReferenceRelationship.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcappliedvalue.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcappliedvalue.htm
  */
 export class IfcAppliedValue extends BaseIfc {
 	Name : IfcLabel // optional

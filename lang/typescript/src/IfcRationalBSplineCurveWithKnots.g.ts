@@ -13,7 +13,7 @@ import {IfcReal} from "./IfcReal.g"
 import {IfcBSplineCurveWithKnots} from "./IfcBSplineCurveWithKnots.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcrationalbsplinecurvewithknots.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcrationalbsplinecurvewithknots.htm
  */
 export class IfcRationalBSplineCurveWithKnots extends IfcBSplineCurveWithKnots {
 	WeightsData : Array<IfcReal>

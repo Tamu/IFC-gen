@@ -20,7 +20,7 @@ import {IfcPhysicalQuantity} from "./IfcPhysicalQuantity.g"
 import {IfcControl} from "./IfcControl.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifccostitem.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifccostitem.htm
  */
 export class IfcCostItem extends IfcControl {
 	PredefinedType : IfcCostItemTypeEnum // optional

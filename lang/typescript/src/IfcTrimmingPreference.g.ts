@@ -1,3 +1,3 @@
 
-//http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifctrimmingpreference.htm
+//https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifctrimmingpreference.htm
 export enum IfcTrimmingPreference {CARTESIAN=".CARTESIAN.",PARAMETER=".PARAMETER.",UNSPECIFIED=".UNSPECIFIED."}

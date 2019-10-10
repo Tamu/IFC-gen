@@ -10,7 +10,7 @@ import {IfcCompositeProfileDef} from "./IfcCompositeProfileDef.g"
 import {IfcMaterialDefinition} from "./IfcMaterialDefinition.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcmaterialprofileset.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcmaterialprofileset.htm
  */
 export class IfcMaterialProfileSet extends IfcMaterialDefinition {
 	Name : IfcLabel // optional

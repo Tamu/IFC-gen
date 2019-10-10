@@ -5,7 +5,7 @@ import {IfcCurveStyleFontPattern} from "./IfcCurveStyleFontPattern.g"
 import {IfcPresentationItem} from "./IfcPresentationItem.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifccurvestylefont.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifccurvestylefont.htm
  */
 export class IfcCurveStyleFont extends IfcPresentationItem {
 	Name : IfcLabel // optional

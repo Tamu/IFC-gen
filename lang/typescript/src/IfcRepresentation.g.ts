@@ -8,7 +8,7 @@ import {IfcPresentationLayerAssignment} from "./IfcPresentationLayerAssignment.g
 import {IfcProductRepresentation} from "./IfcProductRepresentation.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcrepresentation.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcrepresentation.htm
  */
 export abstract class IfcRepresentation extends BaseIfc {
 	ContextOfItems : IfcRepresentationContext

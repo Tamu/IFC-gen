@@ -32,7 +32,7 @@ import {IfcProtectiveDeviceTypeEnum} from "./IfcProtectiveDeviceTypeEnum.g"
 import {IfcFlowController} from "./IfcFlowController.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcprotectivedevice.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcprotectivedevice.htm
  */
 export class IfcProtectiveDevice extends IfcFlowController {
 	PredefinedType : IfcProtectiveDeviceTypeEnum // optional

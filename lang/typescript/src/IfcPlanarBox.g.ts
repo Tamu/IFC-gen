@@ -8,7 +8,7 @@ import {IfcAxis2Placement3D} from "./IfcAxis2Placement3D.g"
 import {IfcPlanarExtent} from "./IfcPlanarExtent.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcplanarbox.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcplanarbox.htm
  */
 export class IfcPlanarBox extends IfcPlanarExtent {
 	Placement : IfcAxis2Placement2D|IfcAxis2Placement3D

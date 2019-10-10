@@ -8,7 +8,7 @@ import {IfcLengthMeasure} from "./IfcLengthMeasure.g"
 import {IfcLogical} from "./IfcLogical.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcoffsetcurve2d.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcoffsetcurve2d.htm
  */
 export class IfcOffsetCurve2D extends IfcCurve {
 	BasisCurve : IfcCurve

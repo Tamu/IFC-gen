@@ -10,7 +10,7 @@ import {IfcRelAssociatesDocument} from "./IfcRelAssociatesDocument.g"
 import {IfcExternalReference} from "./IfcExternalReference.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcdocumentreference.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcdocumentreference.htm
  */
 export class IfcDocumentReference extends IfcExternalReference {
 	Description : IfcText // optional

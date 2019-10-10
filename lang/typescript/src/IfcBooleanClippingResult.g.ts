@@ -11,7 +11,7 @@ import {IfcTessellatedFaceSet} from "./IfcTessellatedFaceSet.g"
 import {IfcDimensionCount} from "./IfcDimensionCount.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcbooleanclippingresult.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcbooleanclippingresult.htm
  */
 export class IfcBooleanClippingResult extends IfcBooleanResult {
 

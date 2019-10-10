@@ -7,7 +7,7 @@ import {IfcModulusOfRotationalSubgradeReactionMeasure} from "./IfcModulusOfRotat
 import {IfcBoundaryCondition} from "./IfcBoundaryCondition.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcboundaryedgecondition.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcboundaryedgecondition.htm
  */
 export class IfcBoundaryEdgeCondition extends IfcBoundaryCondition {
 	TranslationalStiffnessByLengthX : IfcBoolean|IfcModulusOfLinearSubgradeReactionMeasure // optional

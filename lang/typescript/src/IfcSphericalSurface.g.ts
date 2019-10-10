@@ -8,7 +8,7 @@ import {IfcPositiveLengthMeasure} from "./IfcPositiveLengthMeasure.g"
 import {IfcElementarySurface} from "./IfcElementarySurface.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcsphericalsurface.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcsphericalsurface.htm
  */
 export class IfcSphericalSurface extends IfcElementarySurface {
 	Radius : IfcPositiveLengthMeasure

@@ -7,7 +7,7 @@ import {IfcLengthMeasure} from "./IfcLengthMeasure.g"
 import {IfcCartesianPointList} from "./IfcCartesianPointList.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifccartesianpointlist3d.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifccartesianpointlist3d.htm
  */
 export class IfcCartesianPointList3D extends IfcCartesianPointList {
 	CoordList : Array<Array<IfcLengthMeasure>>

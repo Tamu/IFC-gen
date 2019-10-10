@@ -12,7 +12,7 @@ import {IfcKnotType} from "./IfcKnotType.g"
 import {IfcBSplineSurface} from "./IfcBSplineSurface.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcbsplinesurfacewithknots.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcbsplinesurfacewithknots.htm
  */
 export class IfcBSplineSurfaceWithKnots extends IfcBSplineSurface {
 	UMultiplicities : Array<IfcInteger>

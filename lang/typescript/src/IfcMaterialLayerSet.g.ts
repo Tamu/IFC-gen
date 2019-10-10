@@ -10,7 +10,7 @@ import {IfcLengthMeasure} from "./IfcLengthMeasure.g"
 import {IfcMaterialDefinition} from "./IfcMaterialDefinition.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcmateriallayerset.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcmateriallayerset.htm
  */
 export class IfcMaterialLayerSet extends IfcMaterialDefinition {
 	MaterialLayers : Array<IfcMaterialLayer>

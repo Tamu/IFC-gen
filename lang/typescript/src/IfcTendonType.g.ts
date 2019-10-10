@@ -20,7 +20,7 @@ import {IfcAreaMeasure} from "./IfcAreaMeasure.g"
 import {IfcReinforcingElementType} from "./IfcReinforcingElementType.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifctendontype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifctendontype.htm
  */
 export class IfcTendonType extends IfcReinforcingElementType {
 	PredefinedType : IfcTendonTypeEnum

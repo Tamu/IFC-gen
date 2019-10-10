@@ -21,7 +21,7 @@ import {IfcRelContainedInSpatialStructure} from "./IfcRelContainedInSpatialStruc
 import {IfcProduct} from "./IfcProduct.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcgrid.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcgrid.htm
  */
 export class IfcGrid extends IfcProduct {
 	UAxes : Array<IfcGridAxis>

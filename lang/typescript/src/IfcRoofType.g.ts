@@ -18,7 +18,7 @@ import {IfcRoofTypeEnum} from "./IfcRoofTypeEnum.g"
 import {IfcBuildingElementType} from "./IfcBuildingElementType.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcrooftype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcrooftype.htm
  */
 export class IfcRoofType extends IfcBuildingElementType {
 	PredefinedType : IfcRoofTypeEnum

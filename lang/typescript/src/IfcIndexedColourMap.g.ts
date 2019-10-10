@@ -7,7 +7,7 @@ import {IfcPositiveInteger} from "./IfcPositiveInteger.g"
 import {IfcPresentationItem} from "./IfcPresentationItem.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcindexedcolourmap.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcindexedcolourmap.htm
  */
 export class IfcIndexedColourMap extends IfcPresentationItem {
 	MappedTo : IfcTessellatedFaceSet

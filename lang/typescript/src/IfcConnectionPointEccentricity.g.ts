@@ -6,7 +6,7 @@ import {IfcLengthMeasure} from "./IfcLengthMeasure.g"
 import {IfcConnectionPointGeometry} from "./IfcConnectionPointGeometry.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcconnectionpointeccentricity.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcconnectionpointeccentricity.htm
  */
 export class IfcConnectionPointEccentricity extends IfcConnectionPointGeometry {
 	EccentricityInX : IfcLengthMeasure // optional

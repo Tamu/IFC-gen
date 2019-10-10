@@ -10,7 +10,7 @@ import {IfcLogical} from "./IfcLogical.g"
 import {IfcBoundedSurface} from "./IfcBoundedSurface.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcbsplinesurface.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcbsplinesurface.htm
  */
 export abstract class IfcBSplineSurface extends IfcBoundedSurface {
 	UDegree : IfcInteger

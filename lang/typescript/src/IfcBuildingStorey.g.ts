@@ -23,7 +23,7 @@ import {IfcLengthMeasure} from "./IfcLengthMeasure.g"
 import {IfcSpatialStructureElement} from "./IfcSpatialStructureElement.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcbuildingstorey.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcbuildingstorey.htm
  */
 export class IfcBuildingStorey extends IfcSpatialStructureElement {
 	Elevation : IfcLengthMeasure // optional

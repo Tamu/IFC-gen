@@ -8,7 +8,7 @@ import {IfcVector} from "./IfcVector.g"
 import {IfcCurve} from "./IfcCurve.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcline.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcline.htm
  */
 export class IfcLine extends IfcCurve {
 	Pnt : IfcCartesianPoint

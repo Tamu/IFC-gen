@@ -22,7 +22,7 @@ import {IfcSpatialZoneTypeEnum} from "./IfcSpatialZoneTypeEnum.g"
 import {IfcSpatialElement} from "./IfcSpatialElement.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcspatialzone.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcspatialzone.htm
  */
 export class IfcSpatialZone extends IfcSpatialElement {
 	PredefinedType : IfcSpatialZoneTypeEnum // optional

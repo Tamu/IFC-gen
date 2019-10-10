@@ -21,7 +21,7 @@ import {IfcRelConnectsStructuralActivity} from "./IfcRelConnectsStructuralActivi
 import {IfcStructuralActivity} from "./IfcStructuralActivity.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcstructuralreaction.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcstructuralreaction.htm
  */
 export abstract class IfcStructuralReaction extends IfcStructuralActivity {
 

@@ -5,7 +5,7 @@ import {IfcVertexPoint} from "./IfcVertexPoint.g"
 import {IfcConnectionGeometry} from "./IfcConnectionGeometry.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcconnectionpointgeometry.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcconnectionpointgeometry.htm
  */
 export class IfcConnectionPointGeometry extends IfcConnectionGeometry {
 	PointOnRelatingElement : IfcPoint|IfcVertexPoint

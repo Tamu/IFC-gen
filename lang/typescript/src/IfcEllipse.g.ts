@@ -9,7 +9,7 @@ import {IfcPositiveLengthMeasure} from "./IfcPositiveLengthMeasure.g"
 import {IfcConic} from "./IfcConic.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcellipse.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcellipse.htm
  */
 export class IfcEllipse extends IfcConic {
 	SemiAxis1 : IfcPositiveLengthMeasure

@@ -6,7 +6,7 @@ import {IfcDimensionCount} from "./IfcDimensionCount.g"
 import {IfcCurve} from "./IfcCurve.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcboundedcurve.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcboundedcurve.htm
  */
 export abstract class IfcBoundedCurve extends IfcCurve {
 

@@ -9,7 +9,7 @@ import {IfcReal} from "./IfcReal.g"
 import {IfcConversionBasedUnit} from "./IfcConversionBasedUnit.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcconversionbasedunitwithoffset.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcconversionbasedunitwithoffset.htm
  */
 export class IfcConversionBasedUnitWithOffset extends IfcConversionBasedUnit {
 	ConversionOffset : IfcReal

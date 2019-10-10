@@ -5,7 +5,7 @@ import {IfcExternalReferenceRelationship} from "./IfcExternalReferenceRelationsh
 import {IfcMaterialProperties} from "./IfcMaterialProperties.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcmaterialdefinition.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcmaterialdefinition.htm
  */
 export abstract class IfcMaterialDefinition extends BaseIfc {
 	AssociatedTo : Array<IfcRelAssociatesMaterial> // inverse

@@ -18,7 +18,7 @@ import {IfcMedicalDeviceTypeEnum} from "./IfcMedicalDeviceTypeEnum.g"
 import {IfcFlowTerminalType} from "./IfcFlowTerminalType.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcmedicaldevicetype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcmedicaldevicetype.htm
  */
 export class IfcMedicalDeviceType extends IfcFlowTerminalType {
 	PredefinedType : IfcMedicalDeviceTypeEnum

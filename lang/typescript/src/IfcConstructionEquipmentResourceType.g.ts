@@ -19,7 +19,7 @@ import {IfcConstructionEquipmentResourceTypeEnum} from "./IfcConstructionEquipme
 import {IfcConstructionResourceType} from "./IfcConstructionResourceType.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcconstructionequipmentresourcetype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcconstructionequipmentresourcetype.htm
  */
 export class IfcConstructionEquipmentResourceType extends IfcConstructionResourceType {
 	PredefinedType : IfcConstructionEquipmentResourceTypeEnum

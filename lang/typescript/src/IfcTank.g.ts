@@ -32,7 +32,7 @@ import {IfcTankTypeEnum} from "./IfcTankTypeEnum.g"
 import {IfcFlowStorageDevice} from "./IfcFlowStorageDevice.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifctank.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifctank.htm
  */
 export class IfcTank extends IfcFlowStorageDevice {
 	PredefinedType : IfcTankTypeEnum // optional

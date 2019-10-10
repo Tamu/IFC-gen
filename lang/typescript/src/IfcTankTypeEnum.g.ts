@@ -1,3 +1,3 @@
 
-//http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifctanktypeenum.htm
+//https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifctanktypeenum.htm
 export enum IfcTankTypeEnum {BASIN=".BASIN.",BREAKPRESSURE=".BREAKPRESSURE.",EXPANSION=".EXPANSION.",FEEDANDEXPANSION=".FEEDANDEXPANSION.",PRESSUREVESSEL=".PRESSUREVESSEL.",STORAGE=".STORAGE.",VESSEL=".VESSEL.",USERDEFINED=".USERDEFINED.",NOTDEFINED=".NOTDEFINED."}

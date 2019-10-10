@@ -6,7 +6,7 @@ import {IfcPoint} from "./IfcPoint.g"
 import {IfcVertex} from "./IfcVertex.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcvertexpoint.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcvertexpoint.htm
  */
 export class IfcVertexPoint extends IfcVertex {
 	VertexGeometry : IfcPoint

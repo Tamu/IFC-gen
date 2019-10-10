@@ -22,7 +22,7 @@ import {IfcCostValue} from "./IfcCostValue.g"
 import {IfcGroup} from "./IfcGroup.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcinventory.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcinventory.htm
  */
 export class IfcInventory extends IfcGroup {
 	PredefinedType : IfcInventoryTypeEnum // optional

@@ -13,7 +13,7 @@ import {IfcRelDefinesByTemplate} from "./IfcRelDefinesByTemplate.g"
 import {IfcPropertyTemplateDefinition} from "./IfcPropertyTemplateDefinition.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcpropertysettemplate.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcpropertysettemplate.htm
  */
 export class IfcPropertySetTemplate extends IfcPropertyTemplateDefinition {
 	TemplateType : IfcPropertySetTemplateTypeEnum // optional

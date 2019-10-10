@@ -6,7 +6,7 @@ import {IfcDimensionCount} from "./IfcDimensionCount.g"
 import {IfcSurface} from "./IfcSurface.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcboundedsurface.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcboundedsurface.htm
  */
 export abstract class IfcBoundedSurface extends IfcSurface {
 

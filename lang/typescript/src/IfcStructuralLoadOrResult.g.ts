@@ -4,7 +4,7 @@ import {IfcLabel} from "./IfcLabel.g"
 import {IfcStructuralLoad} from "./IfcStructuralLoad.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcstructuralloadorresult.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcstructuralloadorresult.htm
  */
 export abstract class IfcStructuralLoadOrResult extends IfcStructuralLoad {
 

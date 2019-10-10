@@ -18,7 +18,7 @@ import {IfcHeatExchangerTypeEnum} from "./IfcHeatExchangerTypeEnum.g"
 import {IfcEnergyConversionDeviceType} from "./IfcEnergyConversionDeviceType.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcheatexchangertype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcheatexchangertype.htm
  */
 export class IfcHeatExchangerType extends IfcEnergyConversionDeviceType {
 	PredefinedType : IfcHeatExchangerTypeEnum

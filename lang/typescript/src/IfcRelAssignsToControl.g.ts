@@ -10,7 +10,7 @@ import {IfcControl} from "./IfcControl.g"
 import {IfcRelAssigns} from "./IfcRelAssigns.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcrelassignstocontrol.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcrelassignstocontrol.htm
  */
 export class IfcRelAssignsToControl extends IfcRelAssigns {
 	RelatingControl : IfcControl

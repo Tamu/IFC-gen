@@ -11,7 +11,7 @@ import {IfcLine} from "./IfcLine.g"
 import {IfcRevolvedAreaSolid} from "./IfcRevolvedAreaSolid.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcrevolvedareasolidtapered.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcrevolvedareasolidtapered.htm
  */
 export class IfcRevolvedAreaSolidTapered extends IfcRevolvedAreaSolid {
 	EndSweptArea : IfcProfileDef

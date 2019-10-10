@@ -9,7 +9,7 @@ import {IfcSpatialElement} from "./IfcSpatialElement.g"
 import {IfcRelConnects} from "./IfcRelConnects.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcrelreferencedinspatialstructure.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcrelreferencedinspatialstructure.htm
  */
 export class IfcRelReferencedInSpatialStructure extends IfcRelConnects {
 	RelatedElements : Array<IfcProduct>

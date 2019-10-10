@@ -23,7 +23,7 @@ import {IfcDistributionSystemEnum} from "./IfcDistributionSystemEnum.g"
 import {IfcPort} from "./IfcPort.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcdistributionport.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcdistributionport.htm
  */
 export class IfcDistributionPort extends IfcPort {
 	FlowDirection : IfcFlowDirectionEnum // optional

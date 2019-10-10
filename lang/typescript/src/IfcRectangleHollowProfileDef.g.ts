@@ -10,7 +10,7 @@ import {IfcNonNegativeLengthMeasure} from "./IfcNonNegativeLengthMeasure.g"
 import {IfcRectangleProfileDef} from "./IfcRectangleProfileDef.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcrectanglehollowprofiledef.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcrectanglehollowprofiledef.htm
  */
 export class IfcRectangleHollowProfileDef extends IfcRectangleProfileDef {
 	WallThickness : IfcPositiveLengthMeasure

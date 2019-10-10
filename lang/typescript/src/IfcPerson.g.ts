@@ -7,7 +7,7 @@ import {IfcAddress} from "./IfcAddress.g"
 import {IfcPersonAndOrganization} from "./IfcPersonAndOrganization.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcperson.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcperson.htm
  */
 export class IfcPerson extends BaseIfc {
 	Identification : IfcIdentifier // optional

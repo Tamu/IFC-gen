@@ -18,7 +18,7 @@ import {IfcDuctSilencerTypeEnum} from "./IfcDuctSilencerTypeEnum.g"
 import {IfcFlowTreatmentDeviceType} from "./IfcFlowTreatmentDeviceType.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcductsilencertype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcductsilencertype.htm
  */
 export class IfcDuctSilencerType extends IfcFlowTreatmentDeviceType {
 	PredefinedType : IfcDuctSilencerTypeEnum

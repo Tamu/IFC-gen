@@ -18,7 +18,7 @@ import {IfcSystemFurnitureElementTypeEnum} from "./IfcSystemFurnitureElementType
 import {IfcFurnishingElementType} from "./IfcFurnishingElementType.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcsystemfurnitureelementtype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcsystemfurnitureelementtype.htm
  */
 export class IfcSystemFurnitureElementType extends IfcFurnishingElementType {
 	PredefinedType : IfcSystemFurnitureElementTypeEnum // optional

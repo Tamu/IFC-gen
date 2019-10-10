@@ -4,7 +4,7 @@ import {IfcCoordinateReferenceSystem} from "./IfcCoordinateReferenceSystem.g"
 import {IfcGeometricRepresentationContext} from "./IfcGeometricRepresentationContext.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifccoordinateoperation.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifccoordinateoperation.htm
  */
 export abstract class IfcCoordinateOperation extends BaseIfc {
 	SourceCRS : IfcCoordinateReferenceSystem|IfcGeometricRepresentationContext

@@ -8,7 +8,7 @@ import {IfcBoolean} from "./IfcBoolean.g"
 import {IfcEdge} from "./IfcEdge.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcedgecurve.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcedgecurve.htm
  */
 export class IfcEdgeCurve extends IfcEdge {
 	EdgeGeometry : IfcCurve

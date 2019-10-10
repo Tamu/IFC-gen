@@ -7,7 +7,7 @@ import {IfcPolygonalFaceSet} from "./IfcPolygonalFaceSet.g"
 import {IfcIndexedPolygonalFace} from "./IfcIndexedPolygonalFace.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcindexedpolygonalfacewithvoids.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcindexedpolygonalfacewithvoids.htm
  */
 export class IfcIndexedPolygonalFaceWithVoids extends IfcIndexedPolygonalFace {
 	InnerCoordIndices : Array<Array<IfcPositiveInteger>>

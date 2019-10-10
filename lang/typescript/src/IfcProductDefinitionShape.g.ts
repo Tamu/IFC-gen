@@ -8,7 +8,7 @@ import {IfcShapeAspect} from "./IfcShapeAspect.g"
 import {IfcProductRepresentation} from "./IfcProductRepresentation.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcproductdefinitionshape.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcproductdefinitionshape.htm
  */
 export class IfcProductDefinitionShape extends IfcProductRepresentation {
 	ShapeOfProduct : Array<IfcProduct> // inverse

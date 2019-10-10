@@ -13,7 +13,7 @@ import {IfcSectionReinforcementProperties} from "./IfcSectionReinforcementProper
 import {IfcPreDefinedPropertySet} from "./IfcPreDefinedPropertySet.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcreinforcementdefinitionproperties.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcreinforcementdefinitionproperties.htm
  */
 export class IfcReinforcementDefinitionProperties extends IfcPreDefinedPropertySet {
 	DefinitionType : IfcLabel // optional

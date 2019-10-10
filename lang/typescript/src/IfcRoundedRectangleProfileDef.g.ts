@@ -9,7 +9,7 @@ import {IfcPositiveLengthMeasure} from "./IfcPositiveLengthMeasure.g"
 import {IfcRectangleProfileDef} from "./IfcRectangleProfileDef.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcroundedrectangleprofiledef.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcroundedrectangleprofiledef.htm
  */
 export class IfcRoundedRectangleProfileDef extends IfcRectangleProfileDef {
 	RoundingRadius : IfcPositiveLengthMeasure

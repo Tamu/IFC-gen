@@ -18,7 +18,7 @@ import {IfcCompressorTypeEnum} from "./IfcCompressorTypeEnum.g"
 import {IfcFlowMovingDeviceType} from "./IfcFlowMovingDeviceType.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifccompressortype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifccompressortype.htm
  */
 export class IfcCompressorType extends IfcFlowMovingDeviceType {
 	PredefinedType : IfcCompressorTypeEnum

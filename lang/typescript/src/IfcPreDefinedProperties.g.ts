@@ -4,7 +4,7 @@ import {IfcExternalReferenceRelationship} from "./IfcExternalReferenceRelationsh
 import {IfcPropertyAbstraction} from "./IfcPropertyAbstraction.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcpredefinedproperties.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcpredefinedproperties.htm
  */
 export abstract class IfcPreDefinedProperties extends IfcPropertyAbstraction {
 

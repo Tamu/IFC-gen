@@ -9,7 +9,7 @@ import {IfcTextPath} from "./IfcTextPath.g"
 import {IfcGeometricRepresentationItem} from "./IfcGeometricRepresentationItem.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifctextliteral.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifctextliteral.htm
  */
 export class IfcTextLiteral extends IfcGeometricRepresentationItem {
 	Literal : IfcPresentableText

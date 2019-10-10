@@ -5,7 +5,7 @@ import {IfcClassificationReference} from "./IfcClassificationReference.g"
 import {IfcMaterial} from "./IfcMaterial.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcmaterialclassificationrelationship.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcmaterialclassificationrelationship.htm
  */
 export class IfcMaterialClassificationRelationship extends BaseIfc {
 	MaterialClassifications : Array<IfcClassification|IfcClassificationReference>

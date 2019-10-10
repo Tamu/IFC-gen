@@ -32,7 +32,7 @@ import {IfcDuctFittingTypeEnum} from "./IfcDuctFittingTypeEnum.g"
 import {IfcFlowFitting} from "./IfcFlowFitting.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcductfitting.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcductfitting.htm
  */
 export class IfcDuctFitting extends IfcFlowFitting {
 	PredefinedType : IfcDuctFittingTypeEnum // optional

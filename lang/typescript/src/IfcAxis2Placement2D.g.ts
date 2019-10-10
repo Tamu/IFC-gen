@@ -8,7 +8,7 @@ import {IfcDirection} from "./IfcDirection.g"
 import {IfcPlacement} from "./IfcPlacement.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcaxis2placement2d.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcaxis2placement2d.htm
  */
 export class IfcAxis2Placement2D extends IfcPlacement {
 	RefDirection : IfcDirection // optional

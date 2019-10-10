@@ -8,7 +8,7 @@ import {IfcProfileDef} from "./IfcProfileDef.g"
 import {IfcCartesianTransformationOperator2D} from "./IfcCartesianTransformationOperator2D.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcderivedprofiledef.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcderivedprofiledef.htm
  */
 export class IfcDerivedProfileDef extends IfcProfileDef {
 	ParentProfile : IfcProfileDef

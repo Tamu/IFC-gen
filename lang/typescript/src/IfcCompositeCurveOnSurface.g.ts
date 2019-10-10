@@ -10,7 +10,7 @@ import {IfcSurface} from "./IfcSurface.g"
 import {IfcCompositeCurve} from "./IfcCompositeCurve.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifccompositecurveonsurface.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifccompositecurveonsurface.htm
  */
 export class IfcCompositeCurveOnSurface extends IfcCompositeCurve {
 

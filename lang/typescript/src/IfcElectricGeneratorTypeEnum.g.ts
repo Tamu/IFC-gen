@@ -1,3 +1,3 @@
 
-//http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcelectricgeneratortypeenum.htm
+//https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcelectricgeneratortypeenum.htm
 export enum IfcElectricGeneratorTypeEnum {CHP=".CHP.",ENGINEGENERATOR=".ENGINEGENERATOR.",STANDALONE=".STANDALONE.",USERDEFINED=".USERDEFINED.",NOTDEFINED=".NOTDEFINED."}

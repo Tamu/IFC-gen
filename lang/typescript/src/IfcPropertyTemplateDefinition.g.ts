@@ -9,7 +9,7 @@ import {IfcRelAssociates} from "./IfcRelAssociates.g"
 import {IfcPropertyDefinition} from "./IfcPropertyDefinition.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcpropertytemplatedefinition.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcpropertytemplatedefinition.htm
  */
 export abstract class IfcPropertyTemplateDefinition extends IfcPropertyDefinition {
 

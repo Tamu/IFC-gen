@@ -3,7 +3,7 @@ import {BaseIfc} from "./BaseIfc"
 import {IfcMaterial} from "./IfcMaterial.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcmateriallist.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcmateriallist.htm
  */
 export class IfcMaterialList extends BaseIfc {
 	Materials : Array<IfcMaterial>

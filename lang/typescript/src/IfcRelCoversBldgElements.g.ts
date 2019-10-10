@@ -9,7 +9,7 @@ import {IfcCovering} from "./IfcCovering.g"
 import {IfcRelConnects} from "./IfcRelConnects.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcrelcoversbldgelements.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcrelcoversbldgelements.htm
  */
 export class IfcRelCoversBldgElements extends IfcRelConnects {
 	RelatingBuildingElement : IfcElement

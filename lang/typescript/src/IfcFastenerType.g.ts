@@ -18,7 +18,7 @@ import {IfcFastenerTypeEnum} from "./IfcFastenerTypeEnum.g"
 import {IfcElementComponentType} from "./IfcElementComponentType.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcfastenertype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcfastenertype.htm
  */
 export class IfcFastenerType extends IfcElementComponentType {
 	PredefinedType : IfcFastenerTypeEnum

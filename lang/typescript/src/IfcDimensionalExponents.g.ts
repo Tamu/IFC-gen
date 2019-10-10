@@ -2,7 +2,7 @@
 import {BaseIfc} from "./BaseIfc"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcdimensionalexponents.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcdimensionalexponents.htm
  */
 export class IfcDimensionalExponents extends BaseIfc {
 	LengthExponent : number

@@ -6,7 +6,7 @@ import {IfcFace} from "./IfcFace.g"
 import {IfcConnectedFaceSet} from "./IfcConnectedFaceSet.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcclosedshell.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcclosedshell.htm
  */
 export class IfcClosedShell extends IfcConnectedFaceSet {
 

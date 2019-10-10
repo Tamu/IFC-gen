@@ -18,7 +18,7 @@ import {IfcMemberTypeEnum} from "./IfcMemberTypeEnum.g"
 import {IfcBuildingElementType} from "./IfcBuildingElementType.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcmembertype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcmembertype.htm
  */
 export class IfcMemberType extends IfcBuildingElementType {
 	PredefinedType : IfcMemberTypeEnum

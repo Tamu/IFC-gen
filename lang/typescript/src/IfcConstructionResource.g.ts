@@ -20,7 +20,7 @@ import {IfcPhysicalQuantity} from "./IfcPhysicalQuantity.g"
 import {IfcResource} from "./IfcResource.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcconstructionresource.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcconstructionresource.htm
  */
 export abstract class IfcConstructionResource extends IfcResource {
 	Usage : IfcResourceTime // optional

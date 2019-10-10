@@ -7,7 +7,7 @@ import {IfcRotationalStiffnessMeasure} from "./IfcRotationalStiffnessMeasure.g"
 import {IfcBoundaryCondition} from "./IfcBoundaryCondition.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcboundarynodecondition.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcboundarynodecondition.htm
  */
 export class IfcBoundaryNodeCondition extends IfcBoundaryCondition {
 	TranslationalStiffnessX : IfcBoolean|IfcLinearStiffnessMeasure // optional

@@ -1,3 +1,3 @@
 
-//http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcfiltertypeenum.htm
+//https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcfiltertypeenum.htm
 export enum IfcFilterTypeEnum {AIRPARTICLEFILTER=".AIRPARTICLEFILTER.",COMPRESSEDAIRFILTER=".COMPRESSEDAIRFILTER.",ODORFILTER=".ODORFILTER.",OILFILTER=".OILFILTER.",STRAINER=".STRAINER.",WATERFILTER=".WATERFILTER.",USERDEFINED=".USERDEFINED.",NOTDEFINED=".NOTDEFINED."}

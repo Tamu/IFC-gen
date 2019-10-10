@@ -5,7 +5,7 @@ import {IfcSolidModel} from "./IfcSolidModel.g"
 import {IfcConnectionGeometry} from "./IfcConnectionGeometry.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcconnectionvolumegeometry.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcconnectionvolumegeometry.htm
  */
 export class IfcConnectionVolumeGeometry extends IfcConnectionGeometry {
 	VolumeOnRelatingElement : IfcClosedShell|IfcSolidModel

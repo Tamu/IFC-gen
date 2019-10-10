@@ -11,7 +11,7 @@ import {IfcExternalReferenceRelationship} from "./IfcExternalReferenceRelationsh
 import {IfcResourceConstraintRelationship} from "./IfcResourceConstraintRelationship.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcconstraint.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcconstraint.htm
  */
 export abstract class IfcConstraint extends BaseIfc {
 	Name : IfcLabel

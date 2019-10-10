@@ -13,7 +13,7 @@ import {IfcProperty} from "./IfcProperty.g"
 import {IfcPropertySetDefinition} from "./IfcPropertySetDefinition.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcpropertyset.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcpropertyset.htm
  */
 export class IfcPropertySet extends IfcPropertySetDefinition {
 	HasProperties : Array<IfcProperty>

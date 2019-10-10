@@ -32,7 +32,7 @@ import {IfcCooledBeamTypeEnum} from "./IfcCooledBeamTypeEnum.g"
 import {IfcEnergyConversionDevice} from "./IfcEnergyConversionDevice.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifccooledbeam.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifccooledbeam.htm
  */
 export class IfcCooledBeam extends IfcEnergyConversionDevice {
 	PredefinedType : IfcCooledBeamTypeEnum // optional

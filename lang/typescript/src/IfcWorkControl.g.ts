@@ -20,7 +20,7 @@ import {IfcDuration} from "./IfcDuration.g"
 import {IfcControl} from "./IfcControl.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcworkcontrol.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcworkcontrol.htm
  */
 export abstract class IfcWorkControl extends IfcControl {
 	CreationDate : IfcDateTime

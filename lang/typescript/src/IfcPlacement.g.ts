@@ -7,7 +7,7 @@ import {IfcDimensionCount} from "./IfcDimensionCount.g"
 import {IfcGeometricRepresentationItem} from "./IfcGeometricRepresentationItem.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcplacement.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcplacement.htm
  */
 export abstract class IfcPlacement extends IfcGeometricRepresentationItem {
 	Location : IfcCartesianPoint

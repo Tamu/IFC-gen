@@ -18,7 +18,7 @@ import {IfcPerformanceHistoryTypeEnum} from "./IfcPerformanceHistoryTypeEnum.g"
 import {IfcControl} from "./IfcControl.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcperformancehistory.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcperformancehistory.htm
  */
 export class IfcPerformanceHistory extends IfcControl {
 	LifeCyclePhase : IfcLabel

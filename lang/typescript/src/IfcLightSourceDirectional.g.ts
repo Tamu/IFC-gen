@@ -9,7 +9,7 @@ import {IfcDirection} from "./IfcDirection.g"
 import {IfcLightSource} from "./IfcLightSource.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifclightsourcedirectional.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifclightsourcedirectional.htm
  */
 export class IfcLightSourceDirectional extends IfcLightSource {
 	Orientation : IfcDirection

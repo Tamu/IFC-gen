@@ -18,7 +18,7 @@ import {IfcRelAssignsToProduct} from "./IfcRelAssignsToProduct.g"
 import {IfcObject} from "./IfcObject.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcproduct.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcproduct.htm
  */
 export abstract class IfcProduct extends IfcObject {
 	ObjectPlacement : IfcObjectPlacement // optional

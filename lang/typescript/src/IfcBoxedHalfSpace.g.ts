@@ -9,7 +9,7 @@ import {IfcBoundingBox} from "./IfcBoundingBox.g"
 import {IfcHalfSpaceSolid} from "./IfcHalfSpaceSolid.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcboxedhalfspace.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcboxedhalfspace.htm
  */
 export class IfcBoxedHalfSpace extends IfcHalfSpaceSolid {
 	Enclosure : IfcBoundingBox

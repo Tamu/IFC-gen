@@ -20,7 +20,7 @@ import {IfcBoolean} from "./IfcBoolean.g"
 import {IfcBuildingElementType} from "./IfcBuildingElementType.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcwindowtype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcwindowtype.htm
  */
 export class IfcWindowType extends IfcBuildingElementType {
 	PredefinedType : IfcWindowTypeEnum

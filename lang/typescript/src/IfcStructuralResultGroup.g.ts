@@ -20,7 +20,7 @@ import {IfcStructuralAnalysisModel} from "./IfcStructuralAnalysisModel.g"
 import {IfcGroup} from "./IfcGroup.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcstructuralresultgroup.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcstructuralresultgroup.htm
  */
 export class IfcStructuralResultGroup extends IfcGroup {
 	TheoryType : IfcAnalysisTheoryTypeEnum

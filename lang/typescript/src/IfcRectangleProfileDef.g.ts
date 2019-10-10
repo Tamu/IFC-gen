@@ -9,7 +9,7 @@ import {IfcPositiveLengthMeasure} from "./IfcPositiveLengthMeasure.g"
 import {IfcParameterizedProfileDef} from "./IfcParameterizedProfileDef.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcrectangleprofiledef.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcrectangleprofiledef.htm
  */
 export class IfcRectangleProfileDef extends IfcParameterizedProfileDef {
 	XDim : IfcPositiveLengthMeasure

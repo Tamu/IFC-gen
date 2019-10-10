@@ -9,7 +9,7 @@ import {IfcPropertyDefinition} from "./IfcPropertyDefinition.g"
 import {IfcRelationship} from "./IfcRelationship.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcrelassociates.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcrelassociates.htm
  */
 export abstract class IfcRelAssociates extends IfcRelationship {
 	RelatedObjects : Array<IfcObjectDefinition|IfcPropertyDefinition>

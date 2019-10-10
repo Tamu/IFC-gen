@@ -1,3 +1,3 @@
 
-//http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcgeographicelementtypeenum.htm
+//https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcgeographicelementtypeenum.htm
 export enum IfcGeographicElementTypeEnum {TERRAIN=".TERRAIN.",USERDEFINED=".USERDEFINED.",NOTDEFINED=".NOTDEFINED."}

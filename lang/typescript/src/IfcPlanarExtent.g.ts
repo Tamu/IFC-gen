@@ -6,7 +6,7 @@ import {IfcLengthMeasure} from "./IfcLengthMeasure.g"
 import {IfcGeometricRepresentationItem} from "./IfcGeometricRepresentationItem.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcplanarextent.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcplanarextent.htm
  */
 export class IfcPlanarExtent extends IfcGeometricRepresentationItem {
 	SizeInX : IfcLengthMeasure

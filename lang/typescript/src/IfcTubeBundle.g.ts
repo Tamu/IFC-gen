@@ -32,7 +32,7 @@ import {IfcTubeBundleTypeEnum} from "./IfcTubeBundleTypeEnum.g"
 import {IfcEnergyConversionDevice} from "./IfcEnergyConversionDevice.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifctubebundle.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifctubebundle.htm
  */
 export class IfcTubeBundle extends IfcEnergyConversionDevice {
 	PredefinedType : IfcTubeBundleTypeEnum // optional

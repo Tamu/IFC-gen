@@ -11,7 +11,7 @@ import {IfcDirection} from "./IfcDirection.g"
 import {IfcSweptAreaSolid} from "./IfcSweptAreaSolid.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcfixedreferencesweptareasolid.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcfixedreferencesweptareasolid.htm
  */
 export class IfcFixedReferenceSweptAreaSolid extends IfcSweptAreaSolid {
 	Directrix : IfcCurve

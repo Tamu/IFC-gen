@@ -5,7 +5,7 @@ import {IfcThermodynamicTemperatureMeasure} from "./IfcThermodynamicTemperatureM
 import {IfcStructuralLoadStatic} from "./IfcStructuralLoadStatic.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcstructuralloadtemperature.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcstructuralloadtemperature.htm
  */
 export class IfcStructuralLoadTemperature extends IfcStructuralLoadStatic {
 	DeltaTConstant : IfcThermodynamicTemperatureMeasure // optional

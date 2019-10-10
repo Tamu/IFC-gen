@@ -18,7 +18,7 @@ import {IfcCoolingTowerTypeEnum} from "./IfcCoolingTowerTypeEnum.g"
 import {IfcEnergyConversionDeviceType} from "./IfcEnergyConversionDeviceType.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifccoolingtowertype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifccoolingtowertype.htm
  */
 export class IfcCoolingTowerType extends IfcEnergyConversionDeviceType {
 	PredefinedType : IfcCoolingTowerTypeEnum

@@ -10,7 +10,7 @@ import {IfcShapeAspect} from "./IfcShapeAspect.g"
 import {IfcRepresentation} from "./IfcRepresentation.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcshapemodel.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcshapemodel.htm
  */
 export abstract class IfcShapeModel extends IfcRepresentation {
 	OfShapeAspect : Array<IfcShapeAspect> // inverse

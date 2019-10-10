@@ -18,7 +18,7 @@ import {IfcBuildingElementPartTypeEnum} from "./IfcBuildingElementPartTypeEnum.g
 import {IfcElementComponentType} from "./IfcElementComponentType.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcbuildingelementparttype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcbuildingelementparttype.htm
  */
 export class IfcBuildingElementPartType extends IfcElementComponentType {
 	PredefinedType : IfcBuildingElementPartTypeEnum

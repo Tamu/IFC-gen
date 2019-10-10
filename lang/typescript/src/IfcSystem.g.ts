@@ -17,7 +17,7 @@ import {IfcRelServicesBuildings} from "./IfcRelServicesBuildings.g"
 import {IfcGroup} from "./IfcGroup.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcsystem.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcsystem.htm
  */
 export class IfcSystem extends IfcGroup {
 	ServicesBuildings : Array<IfcRelServicesBuildings> // inverse

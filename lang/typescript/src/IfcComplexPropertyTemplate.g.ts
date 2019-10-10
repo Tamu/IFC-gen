@@ -11,7 +11,7 @@ import {IfcComplexPropertyTemplateTypeEnum} from "./IfcComplexPropertyTemplateTy
 import {IfcPropertyTemplate} from "./IfcPropertyTemplate.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifccomplexpropertytemplate.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifccomplexpropertytemplate.htm
  */
 export class IfcComplexPropertyTemplate extends IfcPropertyTemplate {
 	UsageName : IfcLabel // optional

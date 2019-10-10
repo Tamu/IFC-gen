@@ -8,7 +8,7 @@ import {IfcObject} from "./IfcObject.g"
 import {IfcRelDefines} from "./IfcRelDefines.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcreldefinesbyobject.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcreldefinesbyobject.htm
  */
 export class IfcRelDefinesByObject extends IfcRelDefines {
 	RelatedObjects : Array<IfcObject>

@@ -9,7 +9,7 @@ import {IfcBoolean} from "./IfcBoolean.g"
 import {IfcPresentationStyle} from "./IfcPresentationStyle.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifctextstyle.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifctextstyle.htm
  */
 export class IfcTextStyle extends IfcPresentationStyle {
 	TextCharacterAppearance : IfcTextStyleForDefinedFont // optional

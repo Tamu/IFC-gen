@@ -5,7 +5,7 @@ import {IfcPlanarForceMeasure} from "./IfcPlanarForceMeasure.g"
 import {IfcStructuralLoadStatic} from "./IfcStructuralLoadStatic.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcstructuralloadplanarforce.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcstructuralloadplanarforce.htm
  */
 export class IfcStructuralLoadPlanarForce extends IfcStructuralLoadStatic {
 	PlanarForceX : IfcPlanarForceMeasure // optional

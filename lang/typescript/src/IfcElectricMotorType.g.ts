@@ -18,7 +18,7 @@ import {IfcElectricMotorTypeEnum} from "./IfcElectricMotorTypeEnum.g"
 import {IfcEnergyConversionDeviceType} from "./IfcEnergyConversionDeviceType.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcelectricmotortype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcelectricmotortype.htm
  */
 export class IfcElectricMotorType extends IfcEnergyConversionDeviceType {
 	PredefinedType : IfcElectricMotorTypeEnum

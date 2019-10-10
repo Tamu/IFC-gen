@@ -9,7 +9,7 @@ import {IfcObjectTypeEnum} from "./IfcObjectTypeEnum.g"
 import {IfcRelationship} from "./IfcRelationship.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcrelassigns.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcrelassigns.htm
  */
 export abstract class IfcRelAssigns extends IfcRelationship {
 	RelatedObjects : Array<IfcObjectDefinition>

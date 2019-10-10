@@ -7,7 +7,7 @@ import {IfcDimensionCount} from "./IfcDimensionCount.g"
 import {IfcGeometricRepresentationItem} from "./IfcGeometricRepresentationItem.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifccsgprimitive3d.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifccsgprimitive3d.htm
  */
 export abstract class IfcCsgPrimitive3D extends IfcGeometricRepresentationItem {
 	Position : IfcAxis2Placement3D

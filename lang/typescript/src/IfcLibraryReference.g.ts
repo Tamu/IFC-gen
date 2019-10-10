@@ -11,7 +11,7 @@ import {IfcRelAssociatesLibrary} from "./IfcRelAssociatesLibrary.g"
 import {IfcExternalReference} from "./IfcExternalReference.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifclibraryreference.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifclibraryreference.htm
  */
 export class IfcLibraryReference extends IfcExternalReference {
 	Description : IfcText // optional

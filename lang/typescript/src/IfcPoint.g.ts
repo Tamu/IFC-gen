@@ -5,7 +5,7 @@ import {IfcStyledItem} from "./IfcStyledItem.g"
 import {IfcGeometricRepresentationItem} from "./IfcGeometricRepresentationItem.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcpoint.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcpoint.htm
  */
 export abstract class IfcPoint extends IfcGeometricRepresentationItem {
 

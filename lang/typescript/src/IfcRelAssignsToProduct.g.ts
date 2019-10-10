@@ -11,7 +11,7 @@ import {IfcTypeProduct} from "./IfcTypeProduct.g"
 import {IfcRelAssigns} from "./IfcRelAssigns.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcrelassignstoproduct.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcrelassignstoproduct.htm
  */
 export class IfcRelAssignsToProduct extends IfcRelAssigns {
 	RelatingProduct : IfcProduct|IfcTypeProduct

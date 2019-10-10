@@ -8,7 +8,7 @@ import {IfcCurve} from "./IfcCurve.g"
 import {IfcBoundedSurface} from "./IfcBoundedSurface.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifccurveboundedplane.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifccurveboundedplane.htm
  */
 export class IfcCurveBoundedPlane extends IfcBoundedSurface {
 	BasisSurface : IfcPlane

@@ -19,7 +19,7 @@ import {IfcDateTime} from "./IfcDateTime.g"
 import {IfcControl} from "./IfcControl.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifccostschedule.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifccostschedule.htm
  */
 export class IfcCostSchedule extends IfcControl {
 	PredefinedType : IfcCostScheduleTypeEnum // optional

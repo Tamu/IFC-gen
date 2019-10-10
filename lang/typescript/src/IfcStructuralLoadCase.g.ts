@@ -22,7 +22,7 @@ import {IfcStructuralAnalysisModel} from "./IfcStructuralAnalysisModel.g"
 import {IfcStructuralLoadGroup} from "./IfcStructuralLoadGroup.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcstructuralloadcase.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcstructuralloadcase.htm
  */
 export class IfcStructuralLoadCase extends IfcStructuralLoadGroup {
 	SelfWeightCoefficients : Array<IfcRatioMeasure> // optional

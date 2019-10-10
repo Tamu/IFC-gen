@@ -18,7 +18,7 @@ import {IfcDamperTypeEnum} from "./IfcDamperTypeEnum.g"
 import {IfcFlowControllerType} from "./IfcFlowControllerType.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcdampertype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcdampertype.htm
  */
 export class IfcDamperType extends IfcFlowControllerType {
 	PredefinedType : IfcDamperTypeEnum

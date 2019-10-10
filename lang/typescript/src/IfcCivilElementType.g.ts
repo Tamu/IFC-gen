@@ -17,7 +17,7 @@ import {IfcRelAssignsToProduct} from "./IfcRelAssignsToProduct.g"
 import {IfcElementType} from "./IfcElementType.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifccivilelementtype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifccivilelementtype.htm
  */
 export class IfcCivilElementType extends IfcElementType {
 

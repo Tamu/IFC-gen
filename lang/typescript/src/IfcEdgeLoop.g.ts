@@ -7,7 +7,7 @@ import {IfcInteger} from "./IfcInteger.g"
 import {IfcLoop} from "./IfcLoop.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcedgeloop.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcedgeloop.htm
  */
 export class IfcEdgeLoop extends IfcLoop {
 	EdgeList : Array<IfcOrientedEdge>

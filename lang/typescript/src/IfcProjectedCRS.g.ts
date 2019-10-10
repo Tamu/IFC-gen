@@ -8,7 +8,7 @@ import {IfcNamedUnit} from "./IfcNamedUnit.g"
 import {IfcCoordinateReferenceSystem} from "./IfcCoordinateReferenceSystem.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcprojectedcrs.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcprojectedcrs.htm
  */
 export class IfcProjectedCRS extends IfcCoordinateReferenceSystem {
 	MapProjection : IfcIdentifier // optional

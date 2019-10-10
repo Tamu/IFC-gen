@@ -8,7 +8,7 @@ import {IfcExternalReferenceRelationship} from "./IfcExternalReferenceRelationsh
 import {IfcNamedUnit} from "./IfcNamedUnit.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcconversionbasedunit.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcconversionbasedunit.htm
  */
 export class IfcConversionBasedUnit extends IfcNamedUnit {
 	Name : IfcLabel

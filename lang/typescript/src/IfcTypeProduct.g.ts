@@ -17,7 +17,7 @@ import {IfcRelAssignsToProduct} from "./IfcRelAssignsToProduct.g"
 import {IfcTypeObject} from "./IfcTypeObject.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifctypeproduct.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifctypeproduct.htm
  */
 export class IfcTypeProduct extends IfcTypeObject {
 	RepresentationMaps : Array<IfcRepresentationMap> // optional

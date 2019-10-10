@@ -19,7 +19,7 @@ import {IfcRelContainedInSpatialStructure} from "./IfcRelContainedInSpatialStruc
 import {IfcProduct} from "./IfcProduct.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcannotation.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcannotation.htm
  */
 export class IfcAnnotation extends IfcProduct {
 	ContainedInStructure : Array<IfcRelContainedInSpatialStructure> // inverse

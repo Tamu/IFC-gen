@@ -5,7 +5,7 @@ import {IfcPositiveLengthMeasure} from "./IfcPositiveLengthMeasure.g"
 import {IfcPresentationItem} from "./IfcPresentationItem.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifccurvestylefontpattern.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifccurvestylefontpattern.htm
  */
 export class IfcCurveStyleFontPattern extends IfcPresentationItem {
 	VisibleSegmentLength : IfcLengthMeasure

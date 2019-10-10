@@ -9,7 +9,7 @@ import {IfcBoolean} from "./IfcBoolean.g"
 import {IfcBoundedSurface} from "./IfcBoundedSurface.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcrectangulartrimmedsurface.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcrectangulartrimmedsurface.htm
  */
 export class IfcRectangularTrimmedSurface extends IfcBoundedSurface {
 	BasisSurface : IfcSurface

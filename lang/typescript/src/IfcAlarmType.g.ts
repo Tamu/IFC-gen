@@ -18,7 +18,7 @@ import {IfcAlarmTypeEnum} from "./IfcAlarmTypeEnum.g"
 import {IfcDistributionControlElementType} from "./IfcDistributionControlElementType.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcalarmtype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcalarmtype.htm
  */
 export class IfcAlarmType extends IfcDistributionControlElementType {
 	PredefinedType : IfcAlarmTypeEnum

@@ -9,7 +9,7 @@ import {IfcDimensionCount} from "./IfcDimensionCount.g"
 import {IfcCartesianTransformationOperator} from "./IfcCartesianTransformationOperator.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifccartesiantransformationoperator3d.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifccartesiantransformationoperator3d.htm
  */
 export class IfcCartesianTransformationOperator3D extends IfcCartesianTransformationOperator {
 	Axis3 : IfcDirection // optional

@@ -17,7 +17,7 @@ import {IfcDocumentInformationRelationship} from "./IfcDocumentInformationRelati
 import {IfcExternalInformation} from "./IfcExternalInformation.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcdocumentinformation.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcdocumentinformation.htm
  */
 export class IfcDocumentInformation extends IfcExternalInformation {
 	Identification : IfcIdentifier

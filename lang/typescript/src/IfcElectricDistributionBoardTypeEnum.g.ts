@@ -1,3 +1,3 @@
 
-//http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcelectricdistributionboardtypeenum.htm
+//https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcelectricdistributionboardtypeenum.htm
 export enum IfcElectricDistributionBoardTypeEnum {CONSUMERUNIT=".CONSUMERUNIT.",DISTRIBUTIONBOARD=".DISTRIBUTIONBOARD.",MOTORCONTROLCENTRE=".MOTORCONTROLCENTRE.",SWITCHBOARD=".SWITCHBOARD.",USERDEFINED=".USERDEFINED.",NOTDEFINED=".NOTDEFINED."}

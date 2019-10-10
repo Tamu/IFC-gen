@@ -7,7 +7,7 @@ import {IfcCurvatureMeasure} from "./IfcCurvatureMeasure.g"
 import {IfcStructuralLoadSingleDisplacement} from "./IfcStructuralLoadSingleDisplacement.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcstructuralloadsingledisplacementdistortion.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcstructuralloadsingledisplacementdistortion.htm
  */
 export class IfcStructuralLoadSingleDisplacementDistortion extends IfcStructuralLoadSingleDisplacement {
 	Distortion : IfcCurvatureMeasure // optional

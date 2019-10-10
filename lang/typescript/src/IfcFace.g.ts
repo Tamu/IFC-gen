@@ -7,7 +7,7 @@ import {IfcTextureMap} from "./IfcTextureMap.g"
 import {IfcTopologicalRepresentationItem} from "./IfcTopologicalRepresentationItem.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcface.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcface.htm
  */
 export class IfcFace extends IfcTopologicalRepresentationItem {
 	Bounds : Array<IfcFaceBound>

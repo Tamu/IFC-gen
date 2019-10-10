@@ -6,7 +6,7 @@ import {IfcModulusOfSubgradeReactionMeasure} from "./IfcModulusOfSubgradeReactio
 import {IfcBoundaryCondition} from "./IfcBoundaryCondition.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcboundaryfacecondition.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcboundaryfacecondition.htm
  */
 export class IfcBoundaryFaceCondition extends IfcBoundaryCondition {
 	TranslationalStiffnessByAreaX : IfcBoolean|IfcModulusOfSubgradeReactionMeasure // optional

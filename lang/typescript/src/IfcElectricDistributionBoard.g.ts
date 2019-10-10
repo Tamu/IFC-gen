@@ -32,7 +32,7 @@ import {IfcElectricDistributionBoardTypeEnum} from "./IfcElectricDistributionBoa
 import {IfcFlowController} from "./IfcFlowController.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcelectricdistributionboard.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcelectricdistributionboard.htm
  */
 export class IfcElectricDistributionBoard extends IfcFlowController {
 	PredefinedType : IfcElectricDistributionBoardTypeEnum // optional

@@ -7,7 +7,7 @@ import {IfcShapeAspect} from "./IfcShapeAspect.g"
 import {IfcMappedItem} from "./IfcMappedItem.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcrepresentationmap.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcrepresentationmap.htm
  */
 export class IfcRepresentationMap extends BaseIfc {
 	MappingOrigin : IfcAxis2Placement2D|IfcAxis2Placement3D

@@ -7,7 +7,7 @@ import {IfcExternalReferenceRelationship} from "./IfcExternalReferenceRelationsh
 import {IfcNamedUnit} from "./IfcNamedUnit.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifccontextdependentunit.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifccontextdependentunit.htm
  */
 export class IfcContextDependentUnit extends IfcNamedUnit {
 	Name : IfcLabel

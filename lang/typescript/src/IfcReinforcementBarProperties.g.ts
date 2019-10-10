@@ -10,7 +10,7 @@ import {IfcCountMeasure} from "./IfcCountMeasure.g"
 import {IfcPreDefinedProperties} from "./IfcPreDefinedProperties.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcreinforcementbarproperties.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcreinforcementbarproperties.htm
  */
 export class IfcReinforcementBarProperties extends IfcPreDefinedProperties {
 	TotalCrossSectionArea : IfcAreaMeasure

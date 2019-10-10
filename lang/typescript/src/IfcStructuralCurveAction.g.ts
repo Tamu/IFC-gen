@@ -24,7 +24,7 @@ import {IfcStructuralCurveActivityTypeEnum} from "./IfcStructuralCurveActivityTy
 import {IfcStructuralAction} from "./IfcStructuralAction.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcstructuralcurveaction.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcstructuralcurveaction.htm
  */
 export class IfcStructuralCurveAction extends IfcStructuralAction {
 	ProjectedOrTrue : IfcProjectedOrTrueLengthEnum // optional

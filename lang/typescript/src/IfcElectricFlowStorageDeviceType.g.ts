@@ -18,7 +18,7 @@ import {IfcElectricFlowStorageDeviceTypeEnum} from "./IfcElectricFlowStorageDevi
 import {IfcFlowStorageDeviceType} from "./IfcFlowStorageDeviceType.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcelectricflowstoragedevicetype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcelectricflowstoragedevicetype.htm
  */
 export class IfcElectricFlowStorageDeviceType extends IfcFlowStorageDeviceType {
 	PredefinedType : IfcElectricFlowStorageDeviceTypeEnum

@@ -32,7 +32,7 @@ import {IfcCoilTypeEnum} from "./IfcCoilTypeEnum.g"
 import {IfcEnergyConversionDevice} from "./IfcEnergyConversionDevice.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifccoil.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifccoil.htm
  */
 export class IfcCoil extends IfcEnergyConversionDevice {
 	PredefinedType : IfcCoilTypeEnum // optional

@@ -1,3 +1,3 @@
 
-//http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcprofiletypeenum.htm
+//https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcprofiletypeenum.htm
 export enum IfcProfileTypeEnum {CURVE=".CURVE.",AREA=".AREA."}

@@ -12,7 +12,7 @@ import {IfcTextTransformation} from "./IfcTextTransformation.g"
 import {IfcPresentationItem} from "./IfcPresentationItem.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifctextstyletextmodel.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifctextstyletextmodel.htm
  */
 export class IfcTextStyleTextModel extends IfcPresentationItem {
 	TextIndent : IfcDescriptiveMeasure|IfcLengthMeasure|IfcNormalisedRatioMeasure|IfcPositiveLengthMeasure|IfcPositiveRatioMeasure|IfcRatioMeasure // optional

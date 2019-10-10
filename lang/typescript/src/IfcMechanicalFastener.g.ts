@@ -31,7 +31,7 @@ import {IfcMechanicalFastenerTypeEnum} from "./IfcMechanicalFastenerTypeEnum.g"
 import {IfcElementComponent} from "./IfcElementComponent.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcmechanicalfastener.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcmechanicalfastener.htm
  */
 export class IfcMechanicalFastener extends IfcElementComponent {
 	NominalDiameter : IfcPositiveLengthMeasure // optional

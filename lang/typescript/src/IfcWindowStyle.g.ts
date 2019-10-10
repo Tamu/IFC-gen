@@ -20,7 +20,7 @@ import {IfcBoolean} from "./IfcBoolean.g"
 import {IfcTypeProduct} from "./IfcTypeProduct.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcwindowstyle.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcwindowstyle.htm
  */
 export class IfcWindowStyle extends IfcTypeProduct {
 	ConstructionType : IfcWindowStyleConstructionEnum

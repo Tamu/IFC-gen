@@ -32,7 +32,7 @@ import {IfcDuctSegmentTypeEnum} from "./IfcDuctSegmentTypeEnum.g"
 import {IfcFlowSegment} from "./IfcFlowSegment.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcductsegment.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcductsegment.htm
  */
 export class IfcDuctSegment extends IfcFlowSegment {
 	PredefinedType : IfcDuctSegmentTypeEnum // optional

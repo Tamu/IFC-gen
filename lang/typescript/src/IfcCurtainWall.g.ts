@@ -30,7 +30,7 @@ import {IfcCurtainWallTypeEnum} from "./IfcCurtainWallTypeEnum.g"
 import {IfcBuildingElement} from "./IfcBuildingElement.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifccurtainwall.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifccurtainwall.htm
  */
 export class IfcCurtainWall extends IfcBuildingElement {
 	PredefinedType : IfcCurtainWallTypeEnum // optional

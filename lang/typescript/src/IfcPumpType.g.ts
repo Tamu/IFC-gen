@@ -18,7 +18,7 @@ import {IfcPumpTypeEnum} from "./IfcPumpTypeEnum.g"
 import {IfcFlowMovingDeviceType} from "./IfcFlowMovingDeviceType.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcpumptype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcpumptype.htm
  */
 export class IfcPumpType extends IfcFlowMovingDeviceType {
 	PredefinedType : IfcPumpTypeEnum

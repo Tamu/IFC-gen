@@ -11,7 +11,7 @@ import {IfcMaterialConstituentSet} from "./IfcMaterialConstituentSet.g"
 import {IfcMaterialDefinition} from "./IfcMaterialDefinition.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcmaterialconstituent.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcmaterialconstituent.htm
  */
 export class IfcMaterialConstituent extends IfcMaterialDefinition {
 	Name : IfcLabel // optional

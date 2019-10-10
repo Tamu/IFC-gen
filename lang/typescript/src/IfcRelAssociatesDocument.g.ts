@@ -11,7 +11,7 @@ import {IfcDocumentReference} from "./IfcDocumentReference.g"
 import {IfcRelAssociates} from "./IfcRelAssociates.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcrelassociatesdocument.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcrelassociatesdocument.htm
  */
 export class IfcRelAssociatesDocument extends IfcRelAssociates {
 	RelatingDocument : IfcDocumentInformation|IfcDocumentReference

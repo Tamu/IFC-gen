@@ -30,7 +30,7 @@ import {IfcSlabTypeEnum} from "./IfcSlabTypeEnum.g"
 import {IfcSlab} from "./IfcSlab.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcslabelementedcase.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcslabelementedcase.htm
  */
 export class IfcSlabElementedCase extends IfcSlab {
 

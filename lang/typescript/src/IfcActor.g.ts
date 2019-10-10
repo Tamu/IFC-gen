@@ -19,7 +19,7 @@ import {IfcRelAssignsToActor} from "./IfcRelAssignsToActor.g"
 import {IfcObject} from "./IfcObject.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcactor.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcactor.htm
  */
 export class IfcActor extends IfcObject {
 	TheActor : IfcOrganization|IfcPerson|IfcPersonAndOrganization

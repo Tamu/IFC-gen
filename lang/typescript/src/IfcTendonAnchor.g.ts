@@ -30,7 +30,7 @@ import {IfcTendonAnchorTypeEnum} from "./IfcTendonAnchorTypeEnum.g"
 import {IfcReinforcingElement} from "./IfcReinforcingElement.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifctendonanchor.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifctendonanchor.htm
  */
 export class IfcTendonAnchor extends IfcReinforcingElement {
 	PredefinedType : IfcTendonAnchorTypeEnum // optional

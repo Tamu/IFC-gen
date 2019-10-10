@@ -12,7 +12,7 @@ import {IfcRelDefinesByProperties} from "./IfcRelDefinesByProperties.g"
 import {IfcPropertySetDefinition} from "./IfcPropertySetDefinition.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcquantityset.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcquantityset.htm
  */
 export abstract class IfcQuantitySet extends IfcPropertySetDefinition {
 

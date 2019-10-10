@@ -9,7 +9,7 @@ import {IfcProductRepresentation} from "./IfcProductRepresentation.g"
 import {IfcStyleModel} from "./IfcStyleModel.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcstyledrepresentation.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcstyledrepresentation.htm
  */
 export class IfcStyledRepresentation extends IfcStyleModel {
 

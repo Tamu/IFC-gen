@@ -30,7 +30,7 @@ import {IfcVoidingFeatureTypeEnum} from "./IfcVoidingFeatureTypeEnum.g"
 import {IfcFeatureElementSubtraction} from "./IfcFeatureElementSubtraction.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcvoidingfeature.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcvoidingfeature.htm
  */
 export class IfcVoidingFeature extends IfcFeatureElementSubtraction {
 	PredefinedType : IfcVoidingFeatureTypeEnum // optional

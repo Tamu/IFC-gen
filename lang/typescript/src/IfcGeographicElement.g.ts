@@ -30,7 +30,7 @@ import {IfcGeographicElementTypeEnum} from "./IfcGeographicElementTypeEnum.g"
 import {IfcElement} from "./IfcElement.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcgeographicelement.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcgeographicelement.htm
  */
 export class IfcGeographicElement extends IfcElement {
 	PredefinedType : IfcGeographicElementTypeEnum // optional

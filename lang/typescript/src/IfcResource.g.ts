@@ -17,7 +17,7 @@ import {IfcRelAssignsToResource} from "./IfcRelAssignsToResource.g"
 import {IfcObject} from "./IfcObject.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcresource.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcresource.htm
  */
 export abstract class IfcResource extends IfcObject {
 	Identification : IfcIdentifier // optional

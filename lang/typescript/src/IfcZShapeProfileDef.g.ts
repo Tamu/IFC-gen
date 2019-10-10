@@ -10,7 +10,7 @@ import {IfcNonNegativeLengthMeasure} from "./IfcNonNegativeLengthMeasure.g"
 import {IfcParameterizedProfileDef} from "./IfcParameterizedProfileDef.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifczshapeprofiledef.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifczshapeprofiledef.htm
  */
 export class IfcZShapeProfileDef extends IfcParameterizedProfileDef {
 	Depth : IfcPositiveLengthMeasure

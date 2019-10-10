@@ -18,7 +18,7 @@ import {IfcLightFixtureTypeEnum} from "./IfcLightFixtureTypeEnum.g"
 import {IfcFlowTerminalType} from "./IfcFlowTerminalType.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifclightfixturetype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifclightfixturetype.htm
  */
 export class IfcLightFixtureType extends IfcFlowTerminalType {
 	PredefinedType : IfcLightFixtureTypeEnum

@@ -18,7 +18,7 @@ import {IfcUnitaryControlElementTypeEnum} from "./IfcUnitaryControlElementTypeEn
 import {IfcDistributionControlElementType} from "./IfcDistributionControlElementType.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcunitarycontrolelementtype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcunitarycontrolelementtype.htm
  */
 export class IfcUnitaryControlElementType extends IfcDistributionControlElementType {
 	PredefinedType : IfcUnitaryControlElementTypeEnum

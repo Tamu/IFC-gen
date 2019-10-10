@@ -8,7 +8,7 @@ import {IfcPositiveLengthMeasure} from "./IfcPositiveLengthMeasure.g"
 import {IfcCsgPrimitive3D} from "./IfcCsgPrimitive3D.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcrightcircularcone.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcrightcircularcone.htm
  */
 export class IfcRightCircularCone extends IfcCsgPrimitive3D {
 	Height : IfcPositiveLengthMeasure

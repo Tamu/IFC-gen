@@ -18,7 +18,7 @@ import {IfcDistributionChamberElementTypeEnum} from "./IfcDistributionChamberEle
 import {IfcDistributionFlowElementType} from "./IfcDistributionFlowElementType.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcdistributionchamberelementtype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcdistributionchamberelementtype.htm
  */
 export class IfcDistributionChamberElementType extends IfcDistributionFlowElementType {
 	PredefinedType : IfcDistributionChamberElementTypeEnum

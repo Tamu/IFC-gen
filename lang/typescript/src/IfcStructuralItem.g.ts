@@ -19,7 +19,7 @@ import {IfcRelConnectsStructuralActivity} from "./IfcRelConnectsStructuralActivi
 import {IfcProduct} from "./IfcProduct.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcstructuralitem.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcstructuralitem.htm
  */
 export abstract class IfcStructuralItem extends IfcProduct {
 	AssignedStructuralActivity : Array<IfcRelConnectsStructuralActivity> // inverse

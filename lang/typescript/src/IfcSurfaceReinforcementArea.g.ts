@@ -6,7 +6,7 @@ import {IfcRatioMeasure} from "./IfcRatioMeasure.g"
 import {IfcStructuralLoadOrResult} from "./IfcStructuralLoadOrResult.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcsurfacereinforcementarea.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcsurfacereinforcementarea.htm
  */
 export class IfcSurfaceReinforcementArea extends IfcStructuralLoadOrResult {
 	SurfaceReinforcement1 : Array<IfcLengthMeasure> // optional

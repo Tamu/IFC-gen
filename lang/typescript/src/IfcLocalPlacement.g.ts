@@ -6,7 +6,7 @@ import {IfcAxis2Placement2D} from "./IfcAxis2Placement2D.g"
 import {IfcAxis2Placement3D} from "./IfcAxis2Placement3D.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifclocalplacement.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifclocalplacement.htm
  */
 export class IfcLocalPlacement extends IfcObjectPlacement {
 	PlacementRelTo : IfcObjectPlacement // optional

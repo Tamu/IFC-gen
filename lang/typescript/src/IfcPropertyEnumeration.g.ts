@@ -115,7 +115,7 @@ import {IfcNamedUnit} from "./IfcNamedUnit.g"
 import {IfcPropertyAbstraction} from "./IfcPropertyAbstraction.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcpropertyenumeration.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcpropertyenumeration.htm
  */
 export class IfcPropertyEnumeration extends IfcPropertyAbstraction {
 	Name : IfcLabel

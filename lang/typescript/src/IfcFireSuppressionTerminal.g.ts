@@ -32,7 +32,7 @@ import {IfcFireSuppressionTerminalTypeEnum} from "./IfcFireSuppressionTerminalTy
 import {IfcFlowTerminal} from "./IfcFlowTerminal.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcfiresuppressionterminal.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcfiresuppressionterminal.htm
  */
 export class IfcFireSuppressionTerminal extends IfcFlowTerminal {
 	PredefinedType : IfcFireSuppressionTerminalTypeEnum // optional

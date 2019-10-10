@@ -13,7 +13,7 @@ import {IfcMaterialLayerSet} from "./IfcMaterialLayerSet.g"
 import {IfcMaterialDefinition} from "./IfcMaterialDefinition.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcmateriallayer.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcmateriallayer.htm
  */
 export class IfcMaterialLayer extends IfcMaterialDefinition {
 	Material : IfcMaterial // optional

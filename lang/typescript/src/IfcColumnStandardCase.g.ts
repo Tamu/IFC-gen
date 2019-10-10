@@ -30,7 +30,7 @@ import {IfcColumnTypeEnum} from "./IfcColumnTypeEnum.g"
 import {IfcColumn} from "./IfcColumn.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifccolumnstandardcase.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifccolumnstandardcase.htm
  */
 export class IfcColumnStandardCase extends IfcColumn {
 

@@ -10,7 +10,7 @@ import {IfcShapeAspect} from "./IfcShapeAspect.g"
 import {IfcShapeModel} from "./IfcShapeModel.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcshaperepresentation.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcshaperepresentation.htm
  */
 export class IfcShapeRepresentation extends IfcShapeModel {
 

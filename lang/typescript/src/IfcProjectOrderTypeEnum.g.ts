@@ -1,3 +1,3 @@
 
-//http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcprojectordertypeenum.htm
+//https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcprojectordertypeenum.htm
 export enum IfcProjectOrderTypeEnum {CHANGEORDER=".CHANGEORDER.",MAINTENANCEWORKORDER=".MAINTENANCEWORKORDER.",MOVEORDER=".MOVEORDER.",PURCHASEORDER=".PURCHASEORDER.",WORKORDER=".WORKORDER.",USERDEFINED=".USERDEFINED.",NOTDEFINED=".NOTDEFINED."}

@@ -12,7 +12,7 @@ import {IfcLibraryReference} from "./IfcLibraryReference.g"
 import {IfcExternalInformation} from "./IfcExternalInformation.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifclibraryinformation.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifclibraryinformation.htm
  */
 export class IfcLibraryInformation extends IfcExternalInformation {
 	Name : IfcLabel

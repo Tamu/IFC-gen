@@ -6,7 +6,7 @@ import {IfcDimensionCount} from "./IfcDimensionCount.g"
 import {IfcGeometricRepresentationItem} from "./IfcGeometricRepresentationItem.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifccurve.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifccurve.htm
  */
 export abstract class IfcCurve extends IfcGeometricRepresentationItem {
 

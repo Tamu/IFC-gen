@@ -10,7 +10,7 @@ import {IfcPositiveRatioMeasure} from "./IfcPositiveRatioMeasure.g"
 import {IfcSchedulingTime} from "./IfcSchedulingTime.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifctasktime.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifctasktime.htm
  */
 export class IfcTaskTime extends IfcSchedulingTime {
 	DurationType : IfcTaskDurationEnum // optional

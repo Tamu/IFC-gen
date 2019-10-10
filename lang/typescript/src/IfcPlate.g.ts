@@ -30,7 +30,7 @@ import {IfcPlateTypeEnum} from "./IfcPlateTypeEnum.g"
 import {IfcBuildingElement} from "./IfcBuildingElement.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcplate.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcplate.htm
  */
 export class IfcPlate extends IfcBuildingElement {
 	PredefinedType : IfcPlateTypeEnum // optional

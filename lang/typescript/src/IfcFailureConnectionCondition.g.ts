@@ -5,7 +5,7 @@ import {IfcForceMeasure} from "./IfcForceMeasure.g"
 import {IfcStructuralConnectionCondition} from "./IfcStructuralConnectionCondition.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcfailureconnectioncondition.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcfailureconnectioncondition.htm
  */
 export class IfcFailureConnectionCondition extends IfcStructuralConnectionCondition {
 	TensionFailureX : IfcForceMeasure // optional

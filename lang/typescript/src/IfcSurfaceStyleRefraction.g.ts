@@ -4,7 +4,7 @@ import {IfcReal} from "./IfcReal.g"
 import {IfcPresentationItem} from "./IfcPresentationItem.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcsurfacestylerefraction.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcsurfacestylerefraction.htm
  */
 export class IfcSurfaceStyleRefraction extends IfcPresentationItem {
 	RefractionIndex : IfcReal // optional

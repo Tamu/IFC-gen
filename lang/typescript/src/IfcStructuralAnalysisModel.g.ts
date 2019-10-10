@@ -22,7 +22,7 @@ import {IfcObjectPlacement} from "./IfcObjectPlacement.g"
 import {IfcSystem} from "./IfcSystem.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcstructuralanalysismodel.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcstructuralanalysismodel.htm
  */
 export class IfcStructuralAnalysisModel extends IfcSystem {
 	PredefinedType : IfcAnalysisModelTypeEnum

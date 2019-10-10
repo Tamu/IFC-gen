@@ -18,7 +18,7 @@ import {IfcVibrationIsolatorTypeEnum} from "./IfcVibrationIsolatorTypeEnum.g"
 import {IfcElementComponentType} from "./IfcElementComponentType.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcvibrationisolatortype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcvibrationisolatortype.htm
  */
 export class IfcVibrationIsolatorType extends IfcElementComponentType {
 	PredefinedType : IfcVibrationIsolatorTypeEnum

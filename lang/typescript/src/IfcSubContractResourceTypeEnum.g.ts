@@ -1,3 +1,3 @@
 
-//http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcsubcontractresourcetypeenum.htm
+//https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcsubcontractresourcetypeenum.htm
 export enum IfcSubContractResourceTypeEnum {PURCHASE=".PURCHASE.",WORK=".WORK.",USERDEFINED=".USERDEFINED.",NOTDEFINED=".NOTDEFINED."}

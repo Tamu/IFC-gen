@@ -7,7 +7,7 @@ import {IfcPositiveRatioMeasure} from "./IfcPositiveRatioMeasure.g"
 import {IfcPresentationItem} from "./IfcPresentationItem.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifccurvestylefontandscaling.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifccurvestylefontandscaling.htm
  */
 export class IfcCurveStyleFontAndScaling extends IfcPresentationItem {
 	Name : IfcLabel // optional

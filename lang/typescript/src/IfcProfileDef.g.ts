@@ -6,7 +6,7 @@ import {IfcExternalReferenceRelationship} from "./IfcExternalReferenceRelationsh
 import {IfcProfileProperties} from "./IfcProfileProperties.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcprofiledef.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcprofiledef.htm
  */
 export class IfcProfileDef extends BaseIfc {
 	ProfileType : IfcProfileTypeEnum

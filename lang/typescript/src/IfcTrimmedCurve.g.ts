@@ -11,7 +11,7 @@ import {IfcTrimmingPreference} from "./IfcTrimmingPreference.g"
 import {IfcBoundedCurve} from "./IfcBoundedCurve.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifctrimmedcurve.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifctrimmedcurve.htm
  */
 export class IfcTrimmedCurve extends IfcBoundedCurve {
 	BasisCurve : IfcCurve

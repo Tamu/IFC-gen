@@ -11,7 +11,7 @@ import {IfcPlaneAngleMeasure} from "./IfcPlaneAngleMeasure.g"
 import {IfcParameterizedProfileDef} from "./IfcParameterizedProfileDef.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcasymmetricishapeprofiledef.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcasymmetricishapeprofiledef.htm
  */
 export class IfcAsymmetricIShapeProfileDef extends IfcParameterizedProfileDef {
 	BottomFlangeWidth : IfcPositiveLengthMeasure

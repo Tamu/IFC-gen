@@ -6,7 +6,7 @@ import {IfcLabel} from "./IfcLabel.g"
 import {IfcText} from "./IfcText.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcroot.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcroot.htm
  */
 export abstract class IfcRoot extends BaseIfc {
 	GlobalId : IfcGloballyUniqueId

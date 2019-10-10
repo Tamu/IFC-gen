@@ -15,7 +15,7 @@ import {IfcRelDefinesByType} from "./IfcRelDefinesByType.g"
 import {IfcObjectDefinition} from "./IfcObjectDefinition.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifctypeobject.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifctypeobject.htm
  */
 export class IfcTypeObject extends IfcObjectDefinition {
 	ApplicableOccurrence : IfcIdentifier // optional

@@ -1,3 +1,3 @@
 
-//http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifccoolingtowertypeenum.htm
+//https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifccoolingtowertypeenum.htm
 export enum IfcCoolingTowerTypeEnum {NATURALDRAFT=".NATURALDRAFT.",MECHANICALINDUCEDDRAFT=".MECHANICALINDUCEDDRAFT.",MECHANICALFORCEDDRAFT=".MECHANICALFORCEDDRAFT.",USERDEFINED=".USERDEFINED.",NOTDEFINED=".NOTDEFINED."}

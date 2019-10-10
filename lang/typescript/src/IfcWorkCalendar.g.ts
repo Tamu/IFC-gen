@@ -19,7 +19,7 @@ import {IfcWorkCalendarTypeEnum} from "./IfcWorkCalendarTypeEnum.g"
 import {IfcControl} from "./IfcControl.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcworkcalendar.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcworkcalendar.htm
  */
 export class IfcWorkCalendar extends IfcControl {
 	WorkingTimes : Array<IfcWorkTime> // optional

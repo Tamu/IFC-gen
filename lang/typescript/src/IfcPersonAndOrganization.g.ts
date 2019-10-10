@@ -5,7 +5,7 @@ import {IfcOrganization} from "./IfcOrganization.g"
 import {IfcActorRole} from "./IfcActorRole.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcpersonandorganization.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcpersonandorganization.htm
  */
 export class IfcPersonAndOrganization extends BaseIfc {
 	ThePerson : IfcPerson

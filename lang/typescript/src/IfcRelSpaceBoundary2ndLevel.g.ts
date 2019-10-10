@@ -13,7 +13,7 @@ import {IfcInternalOrExternalEnum} from "./IfcInternalOrExternalEnum.g"
 import {IfcRelSpaceBoundary1stLevel} from "./IfcRelSpaceBoundary1stLevel.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcrelspaceboundary2ndlevel.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcrelspaceboundary2ndlevel.htm
  */
 export class IfcRelSpaceBoundary2ndLevel extends IfcRelSpaceBoundary1stLevel {
 	CorrespondingBoundary : IfcRelSpaceBoundary2ndLevel // optional

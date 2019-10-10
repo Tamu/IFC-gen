@@ -9,7 +9,7 @@ import {IfcElement} from "./IfcElement.g"
 import {IfcRelConnects} from "./IfcRelConnects.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcrelconnectselements.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcrelconnectselements.htm
  */
 export class IfcRelConnectsElements extends IfcRelConnects {
 	ConnectionGeometry : IfcConnectionGeometry // optional

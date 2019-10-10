@@ -21,7 +21,7 @@ import {IfcWorkScheduleTypeEnum} from "./IfcWorkScheduleTypeEnum.g"
 import {IfcWorkControl} from "./IfcWorkControl.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcworkschedule.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcworkschedule.htm
  */
 export class IfcWorkSchedule extends IfcWorkControl {
 	PredefinedType : IfcWorkScheduleTypeEnum // optional

@@ -30,7 +30,7 @@ import {IfcRampTypeEnum} from "./IfcRampTypeEnum.g"
 import {IfcBuildingElement} from "./IfcBuildingElement.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcramp.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcramp.htm
  */
 export class IfcRamp extends IfcBuildingElement {
 	PredefinedType : IfcRampTypeEnum // optional

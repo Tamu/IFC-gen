@@ -13,7 +13,7 @@ import {IfcInternalOrExternalEnum} from "./IfcInternalOrExternalEnum.g"
 import {IfcRelConnects} from "./IfcRelConnects.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcrelspaceboundary.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcrelspaceboundary.htm
  */
 export class IfcRelSpaceBoundary extends IfcRelConnects {
 	RelatingSpace : IfcExternalSpatialElement|IfcSpace

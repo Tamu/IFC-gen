@@ -1,3 +1,3 @@
 
-//http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcelectricmotortypeenum.htm
+//https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcelectricmotortypeenum.htm
 export enum IfcElectricMotorTypeEnum {DC=".DC.",INDUCTION=".INDUCTION.",POLYPHASE=".POLYPHASE.",RELUCTANCESYNCHRONOUS=".RELUCTANCESYNCHRONOUS.",SYNCHRONOUS=".SYNCHRONOUS.",USERDEFINED=".USERDEFINED.",NOTDEFINED=".NOTDEFINED."}

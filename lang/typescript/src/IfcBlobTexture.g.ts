@@ -9,7 +9,7 @@ import {IfcBinary} from "./IfcBinary.g"
 import {IfcSurfaceTexture} from "./IfcSurfaceTexture.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcblobtexture.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcblobtexture.htm
  */
 export class IfcBlobTexture extends IfcSurfaceTexture {
 	RasterFormat : IfcIdentifier

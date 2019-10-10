@@ -5,7 +5,7 @@ import {IfcStyledItem} from "./IfcStyledItem.g"
 import {IfcGeometricRepresentationItem} from "./IfcGeometricRepresentationItem.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifctessellateditem.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifctessellateditem.htm
  */
 export abstract class IfcTessellatedItem extends IfcGeometricRepresentationItem {
 

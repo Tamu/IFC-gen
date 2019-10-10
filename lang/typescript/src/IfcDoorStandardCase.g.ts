@@ -32,7 +32,7 @@ import {IfcDoorTypeOperationEnum} from "./IfcDoorTypeOperationEnum.g"
 import {IfcDoor} from "./IfcDoor.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcdoorstandardcase.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcdoorstandardcase.htm
  */
 export class IfcDoorStandardCase extends IfcDoor {
 

@@ -30,7 +30,7 @@ import {IfcBeamTypeEnum} from "./IfcBeamTypeEnum.g"
 import {IfcBeam} from "./IfcBeam.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcbeamstandardcase.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcbeamstandardcase.htm
  */
 export class IfcBeamStandardCase extends IfcBeam {
 

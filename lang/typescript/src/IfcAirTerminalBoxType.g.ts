@@ -18,7 +18,7 @@ import {IfcAirTerminalBoxTypeEnum} from "./IfcAirTerminalBoxTypeEnum.g"
 import {IfcFlowControllerType} from "./IfcFlowControllerType.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcairterminalboxtype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcairterminalboxtype.htm
  */
 export class IfcAirTerminalBoxType extends IfcFlowControllerType {
 	PredefinedType : IfcAirTerminalBoxTypeEnum

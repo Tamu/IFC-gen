@@ -11,7 +11,7 @@ import {IfcRecurrencePattern} from "./IfcRecurrencePattern.g"
 import {IfcTaskTime} from "./IfcTaskTime.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifctasktimerecurring.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifctasktimerecurring.htm
  */
 export class IfcTaskTimeRecurring extends IfcTaskTime {
 	Recurrence : IfcRecurrencePattern

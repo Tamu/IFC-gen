@@ -2,5 +2,5 @@
 import {BaseIfc} from "./BaseIfc"
 
 
-// http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcmassperlengthmeasure.htm
+// https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcmassperlengthmeasure.htm
 export type IfcMassPerLengthMeasure = number

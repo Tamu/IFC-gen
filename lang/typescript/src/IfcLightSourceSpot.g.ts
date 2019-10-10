@@ -13,7 +13,7 @@ import {IfcPositivePlaneAngleMeasure} from "./IfcPositivePlaneAngleMeasure.g"
 import {IfcLightSourcePositional} from "./IfcLightSourcePositional.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifclightsourcespot.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifclightsourcespot.htm
  */
 export class IfcLightSourceSpot extends IfcLightSourcePositional {
 	Orientation : IfcDirection

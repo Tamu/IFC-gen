@@ -7,7 +7,7 @@ import {IfcSurfaceStyle} from "./IfcSurfaceStyle.g"
 import {IfcTextStyle} from "./IfcTextStyle.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcpresentationstyleassignment.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcpresentationstyleassignment.htm
  */
 export class IfcPresentationStyleAssignment extends BaseIfc {
 	Styles : Array<IfcCurveStyle|IfcFillAreaStyle|IfcNullStyle|IfcSurfaceStyle|IfcTextStyle>

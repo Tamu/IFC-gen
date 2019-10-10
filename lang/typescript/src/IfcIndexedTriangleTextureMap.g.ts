@@ -7,7 +7,7 @@ import {IfcPositiveInteger} from "./IfcPositiveInteger.g"
 import {IfcIndexedTextureMap} from "./IfcIndexedTextureMap.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcindexedtriangletexturemap.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcindexedtriangletexturemap.htm
  */
 export class IfcIndexedTriangleTextureMap extends IfcIndexedTextureMap {
 	TexCoordIndex : Array<Array<IfcPositiveInteger>> // optional

@@ -8,7 +8,7 @@ import {IfcCurve} from "./IfcCurve.g"
 import {IfcArbitraryClosedProfileDef} from "./IfcArbitraryClosedProfileDef.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcarbitraryprofiledefwithvoids.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcarbitraryprofiledefwithvoids.htm
  */
 export class IfcArbitraryProfileDefWithVoids extends IfcArbitraryClosedProfileDef {
 	InnerCurves : Array<IfcCurve>

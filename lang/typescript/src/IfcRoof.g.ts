@@ -30,7 +30,7 @@ import {IfcRoofTypeEnum} from "./IfcRoofTypeEnum.g"
 import {IfcBuildingElement} from "./IfcBuildingElement.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcroof.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcroof.htm
  */
 export class IfcRoof extends IfcBuildingElement {
 	PredefinedType : IfcRoofTypeEnum // optional

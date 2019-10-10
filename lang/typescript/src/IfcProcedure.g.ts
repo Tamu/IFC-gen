@@ -19,7 +19,7 @@ import {IfcProcedureTypeEnum} from "./IfcProcedureTypeEnum.g"
 import {IfcProcess} from "./IfcProcess.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcprocedure.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcprocedure.htm
  */
 export class IfcProcedure extends IfcProcess {
 	PredefinedType : IfcProcedureTypeEnum // optional

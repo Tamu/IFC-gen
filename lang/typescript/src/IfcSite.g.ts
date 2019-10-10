@@ -25,7 +25,7 @@ import {IfcPostalAddress} from "./IfcPostalAddress.g"
 import {IfcSpatialStructureElement} from "./IfcSpatialStructureElement.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcsite.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcsite.htm
  */
 export class IfcSite extends IfcSpatialStructureElement {
 	RefLatitude : IfcCompoundPlaneAngleMeasure // optional

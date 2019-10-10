@@ -18,7 +18,7 @@ import {IfcAudioVisualApplianceTypeEnum} from "./IfcAudioVisualApplianceTypeEnum
 import {IfcFlowTerminalType} from "./IfcFlowTerminalType.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcaudiovisualappliancetype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcaudiovisualappliancetype.htm
  */
 export class IfcAudioVisualApplianceType extends IfcFlowTerminalType {
 	PredefinedType : IfcAudioVisualApplianceTypeEnum

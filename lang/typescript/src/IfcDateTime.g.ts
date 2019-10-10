@@ -2,5 +2,5 @@
 import {BaseIfc} from "./BaseIfc"
 
 
-// http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcdatetime.htm
+// https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcdatetime.htm
 export type IfcDateTime = string

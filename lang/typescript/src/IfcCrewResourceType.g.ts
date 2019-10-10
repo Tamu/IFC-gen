@@ -19,7 +19,7 @@ import {IfcCrewResourceTypeEnum} from "./IfcCrewResourceTypeEnum.g"
 import {IfcConstructionResourceType} from "./IfcConstructionResourceType.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifccrewresourcetype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifccrewresourcetype.htm
  */
 export class IfcCrewResourceType extends IfcConstructionResourceType {
 	PredefinedType : IfcCrewResourceTypeEnum

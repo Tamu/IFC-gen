@@ -12,7 +12,7 @@ import {IfcRelAssociates} from "./IfcRelAssociates.g"
 import {IfcRoot} from "./IfcRoot.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcobjectdefinition.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcobjectdefinition.htm
  */
 export abstract class IfcObjectDefinition extends IfcRoot {
 	HasAssignments : Array<IfcRelAssigns> // inverse

@@ -9,7 +9,7 @@ import {IfcLogical} from "./IfcLogical.g"
 import {IfcDirection} from "./IfcDirection.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcoffsetcurve3d.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcoffsetcurve3d.htm
  */
 export class IfcOffsetCurve3D extends IfcCurve {
 	BasisCurve : IfcCurve

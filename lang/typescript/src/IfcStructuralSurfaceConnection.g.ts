@@ -21,7 +21,7 @@ import {IfcRelConnectsStructuralMember} from "./IfcRelConnectsStructuralMember.g
 import {IfcStructuralConnection} from "./IfcStructuralConnection.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcstructuralsurfaceconnection.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcstructuralsurfaceconnection.htm
  */
 export class IfcStructuralSurfaceConnection extends IfcStructuralConnection {
 

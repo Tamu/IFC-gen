@@ -2,5 +2,5 @@
 import {BaseIfc} from "./BaseIfc"
 
 
-// http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcpowermeasure.htm
+// https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcpowermeasure.htm
 export type IfcPowerMeasure = number

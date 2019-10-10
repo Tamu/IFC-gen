@@ -20,7 +20,7 @@ import {IfcBoolean} from "./IfcBoolean.g"
 import {IfcTypeProduct} from "./IfcTypeProduct.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcdoorstyle.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcdoorstyle.htm
  */
 export class IfcDoorStyle extends IfcTypeProduct {
 	OperationType : IfcDoorStyleOperationEnum

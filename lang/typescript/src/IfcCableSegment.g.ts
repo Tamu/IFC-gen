@@ -32,7 +32,7 @@ import {IfcCableSegmentTypeEnum} from "./IfcCableSegmentTypeEnum.g"
 import {IfcFlowSegment} from "./IfcFlowSegment.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifccablesegment.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifccablesegment.htm
  */
 export class IfcCableSegment extends IfcFlowSegment {
 	PredefinedType : IfcCableSegmentTypeEnum // optional

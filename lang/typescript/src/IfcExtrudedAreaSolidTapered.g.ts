@@ -10,7 +10,7 @@ import {IfcPositiveLengthMeasure} from "./IfcPositiveLengthMeasure.g"
 import {IfcExtrudedAreaSolid} from "./IfcExtrudedAreaSolid.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcextrudedareasolidtapered.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcextrudedareasolidtapered.htm
  */
 export class IfcExtrudedAreaSolidTapered extends IfcExtrudedAreaSolid {
 	EndSweptArea : IfcProfileDef

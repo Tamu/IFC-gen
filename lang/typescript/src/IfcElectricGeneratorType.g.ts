@@ -18,7 +18,7 @@ import {IfcElectricGeneratorTypeEnum} from "./IfcElectricGeneratorTypeEnum.g"
 import {IfcEnergyConversionDeviceType} from "./IfcEnergyConversionDeviceType.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcelectricgeneratortype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcelectricgeneratortype.htm
  */
 export class IfcElectricGeneratorType extends IfcEnergyConversionDeviceType {
 	PredefinedType : IfcElectricGeneratorTypeEnum

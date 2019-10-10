@@ -17,7 +17,7 @@ import {IfcRelAssignsToProduct} from "./IfcRelAssignsToProduct.g"
 import {IfcDistributionFlowElementType} from "./IfcDistributionFlowElementType.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcflowmovingdevicetype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcflowmovingdevicetype.htm
  */
 export abstract class IfcFlowMovingDeviceType extends IfcDistributionFlowElementType {
 

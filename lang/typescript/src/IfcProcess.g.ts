@@ -18,7 +18,7 @@ import {IfcRelAssignsToProcess} from "./IfcRelAssignsToProcess.g"
 import {IfcObject} from "./IfcObject.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcprocess.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcprocess.htm
  */
 export abstract class IfcProcess extends IfcObject {
 	Identification : IfcIdentifier // optional

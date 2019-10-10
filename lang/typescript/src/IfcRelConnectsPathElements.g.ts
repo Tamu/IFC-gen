@@ -11,7 +11,7 @@ import {IfcConnectionTypeEnum} from "./IfcConnectionTypeEnum.g"
 import {IfcRelConnectsElements} from "./IfcRelConnectsElements.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcrelconnectspathelements.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcrelconnectspathelements.htm
  */
 export class IfcRelConnectsPathElements extends IfcRelConnectsElements {
 	RelatingPriorities : Array<IfcInteger>

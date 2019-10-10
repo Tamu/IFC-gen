@@ -7,7 +7,7 @@ import {IfcClosedShell} from "./IfcClosedShell.g"
 import {IfcFacetedBrep} from "./IfcFacetedBrep.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcfacetedbrepwithvoids.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcfacetedbrepwithvoids.htm
  */
 export class IfcFacetedBrepWithVoids extends IfcFacetedBrep {
 	Voids : Array<IfcClosedShell>

@@ -18,7 +18,7 @@ import {IfcPhysicalQuantity} from "./IfcPhysicalQuantity.g"
 import {IfcTypeResource} from "./IfcTypeResource.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcconstructionresourcetype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcconstructionresourcetype.htm
  */
 export abstract class IfcConstructionResourceType extends IfcTypeResource {
 	BaseCosts : Array<IfcAppliedValue> // optional

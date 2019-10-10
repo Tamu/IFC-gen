@@ -9,7 +9,7 @@ import {IfcLengthMeasure} from "./IfcLengthMeasure.g"
 import {IfcPhysicalSimpleQuantity} from "./IfcPhysicalSimpleQuantity.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcquantitylength.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcquantitylength.htm
  */
 export class IfcQuantityLength extends IfcPhysicalSimpleQuantity {
 	LengthValue : IfcLengthMeasure

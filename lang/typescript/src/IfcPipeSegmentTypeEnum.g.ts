@@ -1,3 +1,3 @@
 
-//http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcpipesegmenttypeenum.htm
+//https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcpipesegmenttypeenum.htm
 export enum IfcPipeSegmentTypeEnum {CULVERT=".CULVERT.",FLEXIBLESEGMENT=".FLEXIBLESEGMENT.",RIGIDSEGMENT=".RIGIDSEGMENT.",GUTTER=".GUTTER.",SPOOL=".SPOOL.",USERDEFINED=".USERDEFINED.",NOTDEFINED=".NOTDEFINED."}

@@ -6,7 +6,7 @@ import {IfcTableColumn} from "./IfcTableColumn.g"
 import {IfcInteger} from "./IfcInteger.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifctable.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifctable.htm
  */
 export class IfcTable extends BaseIfc {
 	Name : IfcLabel // optional

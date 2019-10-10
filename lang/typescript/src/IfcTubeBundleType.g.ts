@@ -18,7 +18,7 @@ import {IfcTubeBundleTypeEnum} from "./IfcTubeBundleTypeEnum.g"
 import {IfcEnergyConversionDeviceType} from "./IfcEnergyConversionDeviceType.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifctubebundletype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifctubebundletype.htm
  */
 export class IfcTubeBundleType extends IfcEnergyConversionDeviceType {
 	PredefinedType : IfcTubeBundleTypeEnum

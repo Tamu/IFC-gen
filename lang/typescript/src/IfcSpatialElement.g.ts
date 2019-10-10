@@ -21,7 +21,7 @@ import {IfcRelReferencedInSpatialStructure} from "./IfcRelReferencedInSpatialStr
 import {IfcProduct} from "./IfcProduct.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcspatialelement.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcspatialelement.htm
  */
 export abstract class IfcSpatialElement extends IfcProduct {
 	LongName : IfcLabel // optional

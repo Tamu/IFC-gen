@@ -10,7 +10,7 @@ import {IfcSurface} from "./IfcSurface.g"
 import {IfcSurfaceCurve} from "./IfcSurfaceCurve.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcseamcurve.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcseamcurve.htm
  */
 export class IfcSeamCurve extends IfcSurfaceCurve {
 

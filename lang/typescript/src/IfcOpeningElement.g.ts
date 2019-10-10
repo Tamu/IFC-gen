@@ -30,7 +30,7 @@ import {IfcOpeningElementTypeEnum} from "./IfcOpeningElementTypeEnum.g"
 import {IfcFeatureElementSubtraction} from "./IfcFeatureElementSubtraction.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcopeningelement.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcopeningelement.htm
  */
 export class IfcOpeningElement extends IfcFeatureElementSubtraction {
 	PredefinedType : IfcOpeningElementTypeEnum // optional

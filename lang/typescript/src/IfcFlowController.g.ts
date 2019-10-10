@@ -31,7 +31,7 @@ import {IfcRelFlowControlElements} from "./IfcRelFlowControlElements.g"
 import {IfcDistributionFlowElement} from "./IfcDistributionFlowElement.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcflowcontroller.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcflowcontroller.htm
  */
 export class IfcFlowController extends IfcDistributionFlowElement {
 

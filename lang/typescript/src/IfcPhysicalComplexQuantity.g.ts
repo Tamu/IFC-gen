@@ -6,7 +6,7 @@ import {IfcExternalReferenceRelationship} from "./IfcExternalReferenceRelationsh
 import {IfcPhysicalQuantity} from "./IfcPhysicalQuantity.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcphysicalcomplexquantity.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcphysicalcomplexquantity.htm
  */
 export class IfcPhysicalComplexQuantity extends IfcPhysicalQuantity {
 	HasQuantities : Array<IfcPhysicalQuantity>

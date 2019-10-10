@@ -21,7 +21,7 @@ import {IfcLaborResourceTypeEnum} from "./IfcLaborResourceTypeEnum.g"
 import {IfcConstructionResource} from "./IfcConstructionResource.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifclaborresource.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifclaborresource.htm
  */
 export class IfcLaborResource extends IfcConstructionResource {
 	PredefinedType : IfcLaborResourceTypeEnum // optional

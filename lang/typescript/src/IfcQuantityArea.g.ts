@@ -9,7 +9,7 @@ import {IfcAreaMeasure} from "./IfcAreaMeasure.g"
 import {IfcPhysicalSimpleQuantity} from "./IfcPhysicalSimpleQuantity.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcquantityarea.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcquantityarea.htm
  */
 export class IfcQuantityArea extends IfcPhysicalSimpleQuantity {
 	AreaValue : IfcAreaMeasure

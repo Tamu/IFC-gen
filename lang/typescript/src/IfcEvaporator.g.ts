@@ -32,7 +32,7 @@ import {IfcEvaporatorTypeEnum} from "./IfcEvaporatorTypeEnum.g"
 import {IfcEnergyConversionDevice} from "./IfcEnergyConversionDevice.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcevaporator.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcevaporator.htm
  */
 export class IfcEvaporator extends IfcEnergyConversionDevice {
 	PredefinedType : IfcEvaporatorTypeEnum // optional

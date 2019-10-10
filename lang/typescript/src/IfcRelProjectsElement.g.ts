@@ -9,7 +9,7 @@ import {IfcFeatureElementAddition} from "./IfcFeatureElementAddition.g"
 import {IfcRelDecomposes} from "./IfcRelDecomposes.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcrelprojectselement.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcrelprojectselement.htm
  */
 export class IfcRelProjectsElement extends IfcRelDecomposes {
 	RelatingElement : IfcElement

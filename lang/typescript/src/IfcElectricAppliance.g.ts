@@ -32,7 +32,7 @@ import {IfcElectricApplianceTypeEnum} from "./IfcElectricApplianceTypeEnum.g"
 import {IfcFlowTerminal} from "./IfcFlowTerminal.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcelectricappliance.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcelectricappliance.htm
  */
 export class IfcElectricAppliance extends IfcFlowTerminal {
 	PredefinedType : IfcElectricApplianceTypeEnum // optional

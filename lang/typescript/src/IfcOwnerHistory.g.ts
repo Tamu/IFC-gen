@@ -7,7 +7,7 @@ import {IfcChangeActionEnum} from "./IfcChangeActionEnum.g"
 import {IfcTimeStamp} from "./IfcTimeStamp.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcownerhistory.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcownerhistory.htm
  */
 export class IfcOwnerHistory extends BaseIfc {
 	OwningUser : IfcPersonAndOrganization

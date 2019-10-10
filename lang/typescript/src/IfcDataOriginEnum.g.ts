@@ -1,3 +1,3 @@
 
-//http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcdataoriginenum.htm
+//https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcdataoriginenum.htm
 export enum IfcDataOriginEnum {MEASURED=".MEASURED.",PREDICTED=".PREDICTED.",SIMULATED=".SIMULATED.",USERDEFINED=".USERDEFINED.",NOTDEFINED=".NOTDEFINED."}

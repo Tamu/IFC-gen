@@ -148,7 +148,7 @@ $@"
 import {{BaseIfc}} from ""./BaseIfc""
 {wrappedTypeImport}
 
-// http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/{data.Name.ToLower()}.htm
+// https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/{data.Name.ToLower()}.htm
 export type {data.Name} = {WrappedType(data)}";
             return result;
         }
@@ -157,7 +157,7 @@ export type {data.Name} = {WrappedType(data)}";
         {
             var result =
 $@"
-//http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/{data.Name.ToLower()}.htm
+//https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/{data.Name.ToLower()}.htm
 export enum {data.Name} {{{string.Join(",", data.Values.Select(v=>$"{v}=\".{v}.\""))}}}
 ";
             return result;
@@ -234,7 +234,7 @@ $@"
 import {{BaseIfc}} from ""./BaseIfc""
 {importBuilder.ToString()}
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/{data.Name.ToLower()}.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/{data.Name.ToLower()}.htm
  */
 export {modifier}class {data.Name} extends {super} {{
 {data.Properties(selectData)}{constructors}{StepParameters(data)}

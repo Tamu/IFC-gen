@@ -22,7 +22,7 @@ import {IfcDirection} from "./IfcDirection.g"
 import {IfcStructuralCurveMember} from "./IfcStructuralCurveMember.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcstructuralcurvemembervarying.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcstructuralcurvemembervarying.htm
  */
 export class IfcStructuralCurveMemberVarying extends IfcStructuralCurveMember {
 

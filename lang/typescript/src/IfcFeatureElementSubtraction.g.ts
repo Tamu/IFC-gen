@@ -29,7 +29,7 @@ import {IfcRelCoversBldgElements} from "./IfcRelCoversBldgElements.g"
 import {IfcFeatureElement} from "./IfcFeatureElement.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcfeatureelementsubtraction.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcfeatureelementsubtraction.htm
  */
 export abstract class IfcFeatureElementSubtraction extends IfcFeatureElement {
 	VoidsElements : IfcRelVoidsElement // inverse

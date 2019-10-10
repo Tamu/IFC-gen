@@ -22,7 +22,7 @@ import {IfcPlaneAngleMeasure} from "./IfcPlaneAngleMeasure.g"
 import {IfcReinforcingElementType} from "./IfcReinforcingElementType.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcreinforcingmeshtype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcreinforcingmeshtype.htm
  */
 export class IfcReinforcingMeshType extends IfcReinforcingElementType {
 	PredefinedType : IfcReinforcingMeshTypeEnum

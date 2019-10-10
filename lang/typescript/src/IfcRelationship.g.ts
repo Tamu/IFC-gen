@@ -7,7 +7,7 @@ import {IfcText} from "./IfcText.g"
 import {IfcRoot} from "./IfcRoot.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcrelationship.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcrelationship.htm
  */
 export abstract class IfcRelationship extends IfcRoot {
 

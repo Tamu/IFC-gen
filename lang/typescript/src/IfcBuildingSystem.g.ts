@@ -18,7 +18,7 @@ import {IfcBuildingSystemTypeEnum} from "./IfcBuildingSystemTypeEnum.g"
 import {IfcSystem} from "./IfcSystem.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcbuildingsystem.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcbuildingsystem.htm
  */
 export class IfcBuildingSystem extends IfcSystem {
 	PredefinedType : IfcBuildingSystemTypeEnum // optional

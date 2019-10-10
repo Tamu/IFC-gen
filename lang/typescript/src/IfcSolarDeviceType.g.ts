@@ -18,7 +18,7 @@ import {IfcSolarDeviceTypeEnum} from "./IfcSolarDeviceTypeEnum.g"
 import {IfcEnergyConversionDeviceType} from "./IfcEnergyConversionDeviceType.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcsolardevicetype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcsolardevicetype.htm
  */
 export class IfcSolarDeviceType extends IfcEnergyConversionDeviceType {
 	PredefinedType : IfcSolarDeviceTypeEnum

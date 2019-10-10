@@ -8,7 +8,7 @@ import {IfcProductDefinitionShape} from "./IfcProductDefinitionShape.g"
 import {IfcRepresentationMap} from "./IfcRepresentationMap.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcshapeaspect.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcshapeaspect.htm
  */
 export class IfcShapeAspect extends BaseIfc {
 	ShapeRepresentations : Array<IfcShapeModel>

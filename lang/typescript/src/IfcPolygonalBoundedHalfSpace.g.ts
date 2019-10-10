@@ -10,7 +10,7 @@ import {IfcBoundedCurve} from "./IfcBoundedCurve.g"
 import {IfcHalfSpaceSolid} from "./IfcHalfSpaceSolid.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcpolygonalboundedhalfspace.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcpolygonalboundedhalfspace.htm
  */
 export class IfcPolygonalBoundedHalfSpace extends IfcHalfSpaceSolid {
 	Position : IfcAxis2Placement3D

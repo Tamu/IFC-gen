@@ -18,7 +18,7 @@ import {IfcEngineTypeEnum} from "./IfcEngineTypeEnum.g"
 import {IfcEnergyConversionDeviceType} from "./IfcEnergyConversionDeviceType.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcenginetype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcenginetype.htm
  */
 export class IfcEngineType extends IfcEnergyConversionDeviceType {
 	PredefinedType : IfcEngineTypeEnum

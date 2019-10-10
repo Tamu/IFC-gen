@@ -22,7 +22,7 @@ import {IfcBoolean} from "./IfcBoolean.g"
 import {IfcStructuralActivity} from "./IfcStructuralActivity.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcstructuralaction.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcstructuralaction.htm
  */
 export abstract class IfcStructuralAction extends IfcStructuralActivity {
 	DestabilizingLoad : IfcBoolean // optional

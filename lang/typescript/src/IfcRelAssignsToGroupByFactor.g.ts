@@ -11,7 +11,7 @@ import {IfcRatioMeasure} from "./IfcRatioMeasure.g"
 import {IfcRelAssignsToGroup} from "./IfcRelAssignsToGroup.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcrelassignstogroupbyfactor.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcrelassignstogroupbyfactor.htm
  */
 export class IfcRelAssignsToGroupByFactor extends IfcRelAssignsToGroup {
 	Factor : IfcRatioMeasure

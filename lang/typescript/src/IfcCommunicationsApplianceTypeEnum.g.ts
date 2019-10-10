@@ -1,3 +1,3 @@
 
-//http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifccommunicationsappliancetypeenum.htm
+//https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifccommunicationsappliancetypeenum.htm
 export enum IfcCommunicationsApplianceTypeEnum {ANTENNA=".ANTENNA.",COMPUTER=".COMPUTER.",FAX=".FAX.",GATEWAY=".GATEWAY.",MODEM=".MODEM.",NETWORKAPPLIANCE=".NETWORKAPPLIANCE.",NETWORKBRIDGE=".NETWORKBRIDGE.",NETWORKHUB=".NETWORKHUB.",PRINTER=".PRINTER.",REPEATER=".REPEATER.",ROUTER=".ROUTER.",SCANNER=".SCANNER.",USERDEFINED=".USERDEFINED.",NOTDEFINED=".NOTDEFINED."}

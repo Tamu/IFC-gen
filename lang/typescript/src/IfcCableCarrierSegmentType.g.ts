@@ -18,7 +18,7 @@ import {IfcCableCarrierSegmentTypeEnum} from "./IfcCableCarrierSegmentTypeEnum.g
 import {IfcFlowSegmentType} from "./IfcFlowSegmentType.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifccablecarriersegmenttype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifccablecarriersegmenttype.htm
  */
 export class IfcCableCarrierSegmentType extends IfcFlowSegmentType {
 	PredefinedType : IfcCableCarrierSegmentTypeEnum

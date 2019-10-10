@@ -1,3 +1,3 @@
 
-//http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifccooledbeamtypeenum.htm
+//https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifccooledbeamtypeenum.htm
 export enum IfcCooledBeamTypeEnum {ACTIVE=".ACTIVE.",PASSIVE=".PASSIVE.",USERDEFINED=".USERDEFINED.",NOTDEFINED=".NOTDEFINED."}

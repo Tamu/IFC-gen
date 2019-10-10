@@ -9,7 +9,7 @@ import {IfcURIReference} from "./IfcURIReference.g"
 import {IfcSurfaceTexture} from "./IfcSurfaceTexture.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcimagetexture.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcimagetexture.htm
  */
 export class IfcImageTexture extends IfcSurfaceTexture {
 	URLReference : IfcURIReference

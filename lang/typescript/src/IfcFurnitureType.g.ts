@@ -19,7 +19,7 @@ import {IfcFurnitureTypeEnum} from "./IfcFurnitureTypeEnum.g"
 import {IfcFurnishingElementType} from "./IfcFurnishingElementType.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcfurnituretype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcfurnituretype.htm
  */
 export class IfcFurnitureType extends IfcFurnishingElementType {
 	AssemblyPlace : IfcAssemblyPlaceEnum

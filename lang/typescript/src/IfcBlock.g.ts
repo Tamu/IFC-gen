@@ -8,7 +8,7 @@ import {IfcPositiveLengthMeasure} from "./IfcPositiveLengthMeasure.g"
 import {IfcCsgPrimitive3D} from "./IfcCsgPrimitive3D.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcblock.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcblock.htm
  */
 export class IfcBlock extends IfcCsgPrimitive3D {
 	XLength : IfcPositiveLengthMeasure

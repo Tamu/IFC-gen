@@ -10,7 +10,7 @@ import {IfcBinary} from "./IfcBinary.g"
 import {IfcSurfaceTexture} from "./IfcSurfaceTexture.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcpixeltexture.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcpixeltexture.htm
  */
 export class IfcPixelTexture extends IfcSurfaceTexture {
 	Width : IfcInteger

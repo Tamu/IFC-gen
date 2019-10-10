@@ -35,7 +35,7 @@ import {IfcNormalisedRatioMeasure} from "./IfcNormalisedRatioMeasure.g"
 import {IfcReinforcingElement} from "./IfcReinforcingElement.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifctendon.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifctendon.htm
  */
 export class IfcTendon extends IfcReinforcingElement {
 	PredefinedType : IfcTendonTypeEnum // optional

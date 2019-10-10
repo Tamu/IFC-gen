@@ -30,7 +30,7 @@ import {IfcShadingDeviceTypeEnum} from "./IfcShadingDeviceTypeEnum.g"
 import {IfcBuildingElement} from "./IfcBuildingElement.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcshadingdevice.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcshadingdevice.htm
  */
 export class IfcShadingDevice extends IfcBuildingElement {
 	PredefinedType : IfcShadingDeviceTypeEnum // optional

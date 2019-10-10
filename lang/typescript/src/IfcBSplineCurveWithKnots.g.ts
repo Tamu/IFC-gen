@@ -12,7 +12,7 @@ import {IfcKnotType} from "./IfcKnotType.g"
 import {IfcBSplineCurve} from "./IfcBSplineCurve.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcbsplinecurvewithknots.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcbsplinecurvewithknots.htm
  */
 export class IfcBSplineCurveWithKnots extends IfcBSplineCurve {
 	KnotMultiplicities : Array<IfcInteger>

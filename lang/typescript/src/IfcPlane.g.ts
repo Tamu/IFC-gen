@@ -7,7 +7,7 @@ import {IfcAxis2Placement3D} from "./IfcAxis2Placement3D.g"
 import {IfcElementarySurface} from "./IfcElementarySurface.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcplane.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcplane.htm
  */
 export class IfcPlane extends IfcElementarySurface {
 

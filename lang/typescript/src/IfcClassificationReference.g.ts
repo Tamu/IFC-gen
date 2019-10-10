@@ -10,7 +10,7 @@ import {IfcRelAssociatesClassification} from "./IfcRelAssociatesClassification.g
 import {IfcExternalReference} from "./IfcExternalReference.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcclassificationreference.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcclassificationreference.htm
  */
 export class IfcClassificationReference extends IfcExternalReference {
 	ReferencedSource : IfcClassification|IfcClassificationReference // optional

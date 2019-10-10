@@ -10,7 +10,7 @@ import {IfcApproval} from "./IfcApproval.g"
 import {IfcRelAssociates} from "./IfcRelAssociates.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcrelassociatesapproval.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcrelassociatesapproval.htm
  */
 export class IfcRelAssociatesApproval extends IfcRelAssociates {
 	RelatingApproval : IfcApproval

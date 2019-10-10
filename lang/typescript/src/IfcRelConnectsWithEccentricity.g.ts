@@ -14,7 +14,7 @@ import {IfcConnectionGeometry} from "./IfcConnectionGeometry.g"
 import {IfcRelConnectsStructuralMember} from "./IfcRelConnectsStructuralMember.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcrelconnectswitheccentricity.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcrelconnectswitheccentricity.htm
  */
 export class IfcRelConnectsWithEccentricity extends IfcRelConnectsStructuralMember {
 	ConnectionConstraint : IfcConnectionGeometry

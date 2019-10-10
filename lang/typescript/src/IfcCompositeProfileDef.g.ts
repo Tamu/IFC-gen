@@ -7,7 +7,7 @@ import {IfcProfileProperties} from "./IfcProfileProperties.g"
 import {IfcProfileDef} from "./IfcProfileDef.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifccompositeprofiledef.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifccompositeprofiledef.htm
  */
 export class IfcCompositeProfileDef extends IfcProfileDef {
 	Profiles : Array<IfcProfileDef>

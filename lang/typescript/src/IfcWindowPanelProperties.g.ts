@@ -16,7 +16,7 @@ import {IfcShapeAspect} from "./IfcShapeAspect.g"
 import {IfcPreDefinedPropertySet} from "./IfcPreDefinedPropertySet.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcwindowpanelproperties.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcwindowpanelproperties.htm
  */
 export class IfcWindowPanelProperties extends IfcPreDefinedPropertySet {
 	OperationType : IfcWindowPanelOperationEnum

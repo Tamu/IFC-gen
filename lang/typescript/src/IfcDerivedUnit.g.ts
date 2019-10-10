@@ -6,7 +6,7 @@ import {IfcLabel} from "./IfcLabel.g"
 import {IfcDimensionalExponents} from "./IfcDimensionalExponents.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcderivedunit.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcderivedunit.htm
  */
 export class IfcDerivedUnit extends BaseIfc {
 	Elements : Array<IfcDerivedUnitElement>

@@ -17,7 +17,7 @@ import {IfcStateEnum} from "./IfcStateEnum.g"
 import {IfcPropertyTemplate} from "./IfcPropertyTemplate.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcsimplepropertytemplate.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcsimplepropertytemplate.htm
  */
 export class IfcSimplePropertyTemplate extends IfcPropertyTemplate {
 	TemplateType : IfcSimplePropertyTemplateTypeEnum // optional

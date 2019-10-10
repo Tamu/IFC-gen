@@ -118,7 +118,7 @@ using STEP;
 namespace IFC
 {{
     /// <summary>
-	/// http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/{data.Name.ToLower()}.htm
+	/// https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/{data.Name.ToLower()}.htm
 	/// </summary>
 	public class {data.Name} : BaseIfc
 	{{
@@ -153,7 +153,7 @@ using STEP;
 namespace IFC
 {{
     /// <summary>
-    /// http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/{data.Name.ToLower()}.htm
+    /// https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/{data.Name.ToLower()}.htm
     /// </summary>
     public enum {data.Name} {{{string.Join(",", data.Values)}}}
 }}
@@ -298,7 +298,7 @@ using STEP;
 namespace IFC
 {{
 	/// <summary>
-	/// <see href=""http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/{data.Name.ToLower()}.htm""/>
+	/// <see href=""https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/{data.Name.ToLower()}.htm""/>
 	/// </summary>
 	public {modifier} partial class {data.Name} : {super}
 	{{

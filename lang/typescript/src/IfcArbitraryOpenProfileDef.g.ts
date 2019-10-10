@@ -8,7 +8,7 @@ import {IfcBoundedCurve} from "./IfcBoundedCurve.g"
 import {IfcProfileDef} from "./IfcProfileDef.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcarbitraryopenprofiledef.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcarbitraryopenprofiledef.htm
  */
 export class IfcArbitraryOpenProfileDef extends IfcProfileDef {
 	Curve : IfcBoundedCurve

@@ -1,3 +1,3 @@
 
-//http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcflowinstrumenttypeenum.htm
+//https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcflowinstrumenttypeenum.htm
 export enum IfcFlowInstrumentTypeEnum {PRESSUREGAUGE=".PRESSUREGAUGE.",THERMOMETER=".THERMOMETER.",AMMETER=".AMMETER.",FREQUENCYMETER=".FREQUENCYMETER.",POWERFACTORMETER=".POWERFACTORMETER.",PHASEANGLEMETER=".PHASEANGLEMETER.",VOLTMETER_PEAK=".VOLTMETER_PEAK.",VOLTMETER_RMS=".VOLTMETER_RMS.",USERDEFINED=".USERDEFINED.",NOTDEFINED=".NOTDEFINED."}

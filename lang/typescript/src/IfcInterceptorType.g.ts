@@ -18,7 +18,7 @@ import {IfcInterceptorTypeEnum} from "./IfcInterceptorTypeEnum.g"
 import {IfcFlowTreatmentDeviceType} from "./IfcFlowTreatmentDeviceType.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcinterceptortype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcinterceptortype.htm
  */
 export class IfcInterceptorType extends IfcFlowTreatmentDeviceType {
 	PredefinedType : IfcInterceptorTypeEnum

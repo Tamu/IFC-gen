@@ -21,7 +21,7 @@ import {IfcSubContractResourceTypeEnum} from "./IfcSubContractResourceTypeEnum.g
 import {IfcConstructionResource} from "./IfcConstructionResource.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcsubcontractresource.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcsubcontractresource.htm
  */
 export class IfcSubContractResource extends IfcConstructionResource {
 	PredefinedType : IfcSubContractResourceTypeEnum // optional

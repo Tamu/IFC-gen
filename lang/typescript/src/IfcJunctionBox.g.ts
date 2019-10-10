@@ -32,7 +32,7 @@ import {IfcJunctionBoxTypeEnum} from "./IfcJunctionBoxTypeEnum.g"
 import {IfcFlowFitting} from "./IfcFlowFitting.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcjunctionbox.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcjunctionbox.htm
  */
 export class IfcJunctionBox extends IfcFlowFitting {
 	PredefinedType : IfcJunctionBoxTypeEnum // optional

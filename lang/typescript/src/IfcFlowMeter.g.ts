@@ -32,7 +32,7 @@ import {IfcFlowMeterTypeEnum} from "./IfcFlowMeterTypeEnum.g"
 import {IfcFlowController} from "./IfcFlowController.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcflowmeter.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcflowmeter.htm
  */
 export class IfcFlowMeter extends IfcFlowController {
 	PredefinedType : IfcFlowMeterTypeEnum // optional

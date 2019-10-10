@@ -1,3 +1,3 @@
 
-//http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifccostscheduletypeenum.htm
+//https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifccostscheduletypeenum.htm
 export enum IfcCostScheduleTypeEnum {BUDGET=".BUDGET.",COSTPLAN=".COSTPLAN.",ESTIMATE=".ESTIMATE.",TENDER=".TENDER.",PRICEDBILLOFQUANTITIES=".PRICEDBILLOFQUANTITIES.",UNPRICEDBILLOFQUANTITIES=".UNPRICEDBILLOFQUANTITIES.",SCHEDULEOFRATES=".SCHEDULEOFRATES.",USERDEFINED=".USERDEFINED.",NOTDEFINED=".NOTDEFINED."}

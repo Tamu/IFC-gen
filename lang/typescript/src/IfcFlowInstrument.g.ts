@@ -32,7 +32,7 @@ import {IfcFlowInstrumentTypeEnum} from "./IfcFlowInstrumentTypeEnum.g"
 import {IfcDistributionControlElement} from "./IfcDistributionControlElement.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcflowinstrument.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcflowinstrument.htm
  */
 export class IfcFlowInstrument extends IfcDistributionControlElement {
 	PredefinedType : IfcFlowInstrumentTypeEnum // optional

@@ -6,7 +6,7 @@ import {IfcPlaneAngleMeasure} from "./IfcPlaneAngleMeasure.g"
 import {IfcStructuralLoadStatic} from "./IfcStructuralLoadStatic.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcstructuralloadsingledisplacement.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcstructuralloadsingledisplacement.htm
  */
 export class IfcStructuralLoadSingleDisplacement extends IfcStructuralLoadStatic {
 	DisplacementX : IfcLengthMeasure // optional

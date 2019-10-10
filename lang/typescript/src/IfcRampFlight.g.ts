@@ -30,7 +30,7 @@ import {IfcRampFlightTypeEnum} from "./IfcRampFlightTypeEnum.g"
 import {IfcBuildingElement} from "./IfcBuildingElement.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcrampflight.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcrampflight.htm
  */
 export class IfcRampFlight extends IfcBuildingElement {
 	PredefinedType : IfcRampFlightTypeEnum // optional

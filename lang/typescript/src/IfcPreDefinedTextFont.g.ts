@@ -4,7 +4,7 @@ import {IfcLabel} from "./IfcLabel.g"
 import {IfcPreDefinedItem} from "./IfcPreDefinedItem.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcpredefinedtextfont.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcpredefinedtextfont.htm
  */
 export abstract class IfcPreDefinedTextFont extends IfcPreDefinedItem {
 

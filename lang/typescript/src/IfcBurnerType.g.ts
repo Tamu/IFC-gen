@@ -18,7 +18,7 @@ import {IfcBurnerTypeEnum} from "./IfcBurnerTypeEnum.g"
 import {IfcEnergyConversionDeviceType} from "./IfcEnergyConversionDeviceType.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcburnertype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcburnertype.htm
  */
 export class IfcBurnerType extends IfcEnergyConversionDeviceType {
 	PredefinedType : IfcBurnerTypeEnum

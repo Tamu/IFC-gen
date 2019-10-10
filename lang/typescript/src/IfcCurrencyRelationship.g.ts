@@ -9,7 +9,7 @@ import {IfcLibraryInformation} from "./IfcLibraryInformation.g"
 import {IfcResourceLevelRelationship} from "./IfcResourceLevelRelationship.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifccurrencyrelationship.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifccurrencyrelationship.htm
  */
 export class IfcCurrencyRelationship extends IfcResourceLevelRelationship {
 	RelatingMonetaryUnit : IfcMonetaryUnit

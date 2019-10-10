@@ -6,7 +6,7 @@ import {IfcExternalReferenceRelationship} from "./IfcExternalReferenceRelationsh
 import {IfcPhysicalComplexQuantity} from "./IfcPhysicalComplexQuantity.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcphysicalquantity.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcphysicalquantity.htm
  */
 export abstract class IfcPhysicalQuantity extends BaseIfc {
 	Name : IfcLabel

@@ -32,7 +32,7 @@ import {IfcCommunicationsApplianceTypeEnum} from "./IfcCommunicationsApplianceTy
 import {IfcFlowTerminal} from "./IfcFlowTerminal.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifccommunicationsappliance.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifccommunicationsappliance.htm
  */
 export class IfcCommunicationsAppliance extends IfcFlowTerminal {
 	PredefinedType : IfcCommunicationsApplianceTypeEnum // optional

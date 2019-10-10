@@ -13,7 +13,7 @@ import {IfcPhysicalQuantity} from "./IfcPhysicalQuantity.g"
 import {IfcQuantitySet} from "./IfcQuantitySet.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcelementquantity.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcelementquantity.htm
  */
 export class IfcElementQuantity extends IfcQuantitySet {
 	MethodOfMeasurement : IfcLabel // optional

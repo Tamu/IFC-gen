@@ -10,7 +10,7 @@ import {IfcClassificationReference} from "./IfcClassificationReference.g"
 import {IfcExternalInformation} from "./IfcExternalInformation.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcclassification.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcclassification.htm
  */
 export class IfcClassification extends IfcExternalInformation {
 	Source : IfcLabel // optional

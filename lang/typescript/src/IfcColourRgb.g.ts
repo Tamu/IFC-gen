@@ -5,7 +5,7 @@ import {IfcNormalisedRatioMeasure} from "./IfcNormalisedRatioMeasure.g"
 import {IfcColourSpecification} from "./IfcColourSpecification.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifccolourrgb.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifccolourrgb.htm
  */
 export class IfcColourRgb extends IfcColourSpecification {
 	Red : IfcNormalisedRatioMeasure

@@ -1,3 +1,3 @@
 
-//http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcoutlettypeenum.htm
+//https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcoutlettypeenum.htm
 export enum IfcOutletTypeEnum {AUDIOVISUALOUTLET=".AUDIOVISUALOUTLET.",COMMUNICATIONSOUTLET=".COMMUNICATIONSOUTLET.",POWEROUTLET=".POWEROUTLET.",DATAOUTLET=".DATAOUTLET.",TELEPHONEOUTLET=".TELEPHONEOUTLET.",USERDEFINED=".USERDEFINED.",NOTDEFINED=".NOTDEFINED."}

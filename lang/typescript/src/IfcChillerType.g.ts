@@ -18,7 +18,7 @@ import {IfcChillerTypeEnum} from "./IfcChillerTypeEnum.g"
 import {IfcEnergyConversionDeviceType} from "./IfcEnergyConversionDeviceType.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcchillertype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcchillertype.htm
  */
 export class IfcChillerType extends IfcEnergyConversionDeviceType {
 	PredefinedType : IfcChillerTypeEnum

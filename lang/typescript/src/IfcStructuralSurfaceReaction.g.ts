@@ -22,7 +22,7 @@ import {IfcStructuralSurfaceActivityTypeEnum} from "./IfcStructuralSurfaceActivi
 import {IfcStructuralReaction} from "./IfcStructuralReaction.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcstructuralsurfacereaction.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcstructuralsurfacereaction.htm
  */
 export class IfcStructuralSurfaceReaction extends IfcStructuralReaction {
 	PredefinedType : IfcStructuralSurfaceActivityTypeEnum

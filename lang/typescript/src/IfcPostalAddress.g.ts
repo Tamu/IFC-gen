@@ -8,7 +8,7 @@ import {IfcOrganization} from "./IfcOrganization.g"
 import {IfcAddress} from "./IfcAddress.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcpostaladdress.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcpostaladdress.htm
  */
 export class IfcPostalAddress extends IfcAddress {
 	InternalLocation : IfcLabel // optional

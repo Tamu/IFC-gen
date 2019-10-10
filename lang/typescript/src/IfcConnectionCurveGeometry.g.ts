@@ -5,7 +5,7 @@ import {IfcEdgeCurve} from "./IfcEdgeCurve.g"
 import {IfcConnectionGeometry} from "./IfcConnectionGeometry.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcconnectioncurvegeometry.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcconnectioncurvegeometry.htm
  */
 export class IfcConnectionCurveGeometry extends IfcConnectionGeometry {
 	CurveOnRelatingElement : IfcBoundedCurve|IfcEdgeCurve

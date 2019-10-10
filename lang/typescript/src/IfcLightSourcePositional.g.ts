@@ -11,7 +11,7 @@ import {IfcReal} from "./IfcReal.g"
 import {IfcLightSource} from "./IfcLightSource.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifclightsourcepositional.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifclightsourcepositional.htm
  */
 export class IfcLightSourcePositional extends IfcLightSource {
 	Position : IfcCartesianPoint

@@ -19,7 +19,7 @@ import {IfcPositiveLengthMeasure} from "./IfcPositiveLengthMeasure.g"
 import {IfcElementComponentType} from "./IfcElementComponentType.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcmechanicalfastenertype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcmechanicalfastenertype.htm
  */
 export class IfcMechanicalFastenerType extends IfcElementComponentType {
 	PredefinedType : IfcMechanicalFastenerTypeEnum

@@ -7,7 +7,7 @@ import {IfcDirection} from "./IfcDirection.g"
 import {IfcObjectPlacement} from "./IfcObjectPlacement.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcgridplacement.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcgridplacement.htm
  */
 export class IfcGridPlacement extends IfcObjectPlacement {
 	PlacementLocation : IfcVirtualGridIntersection

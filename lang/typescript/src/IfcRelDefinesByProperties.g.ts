@@ -10,7 +10,7 @@ import {IfcPropertySetDefinitionSet} from "./IfcPropertySetDefinitionSet.g"
 import {IfcRelDefines} from "./IfcRelDefines.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcreldefinesbyproperties.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcreldefinesbyproperties.htm
  */
 export class IfcRelDefinesByProperties extends IfcRelDefines {
 	RelatedObjects : Array<IfcObjectDefinition>

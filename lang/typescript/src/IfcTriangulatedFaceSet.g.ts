@@ -13,7 +13,7 @@ import {IfcInteger} from "./IfcInteger.g"
 import {IfcTessellatedFaceSet} from "./IfcTessellatedFaceSet.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifctriangulatedfaceset.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifctriangulatedfaceset.htm
  */
 export class IfcTriangulatedFaceSet extends IfcTessellatedFaceSet {
 	Normals : Array<Array<IfcParameterValue>> // optional

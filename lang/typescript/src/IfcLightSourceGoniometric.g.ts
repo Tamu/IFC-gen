@@ -14,7 +14,7 @@ import {IfcLightIntensityDistribution} from "./IfcLightIntensityDistribution.g"
 import {IfcLightSource} from "./IfcLightSource.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifclightsourcegoniometric.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifclightsourcegoniometric.htm
  */
 export class IfcLightSourceGoniometric extends IfcLightSource {
 	Position : IfcAxis2Placement3D

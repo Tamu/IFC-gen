@@ -6,7 +6,7 @@ import {IfcLabel} from "./IfcLabel.g"
 import {IfcExternalReferenceRelationship} from "./IfcExternalReferenceRelationship.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcexternalreference.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcexternalreference.htm
  */
 export abstract class IfcExternalReference extends BaseIfc {
 	Location : IfcURIReference // optional

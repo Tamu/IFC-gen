@@ -5,7 +5,7 @@ import {IfcLabel} from "./IfcLabel.g"
 import {IfcInteger} from "./IfcInteger.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcreference.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcreference.htm
  */
 export class IfcReference extends BaseIfc {
 	TypeIdentifier : IfcIdentifier // optional

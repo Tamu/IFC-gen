@@ -30,7 +30,7 @@ import {IfcWallTypeEnum} from "./IfcWallTypeEnum.g"
 import {IfcWall} from "./IfcWall.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcwallstandardcase.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcwallstandardcase.htm
  */
 export class IfcWallStandardCase extends IfcWall {
 

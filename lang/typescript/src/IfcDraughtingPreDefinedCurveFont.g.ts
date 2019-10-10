@@ -4,7 +4,7 @@ import {IfcLabel} from "./IfcLabel.g"
 import {IfcPreDefinedCurveFont} from "./IfcPreDefinedCurveFont.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcdraughtingpredefinedcurvefont.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcdraughtingpredefinedcurvefont.htm
  */
 export class IfcDraughtingPreDefinedCurveFont extends IfcPreDefinedCurveFont {
 

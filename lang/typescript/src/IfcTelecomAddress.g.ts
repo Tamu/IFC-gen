@@ -9,7 +9,7 @@ import {IfcURIReference} from "./IfcURIReference.g"
 import {IfcAddress} from "./IfcAddress.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifctelecomaddress.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifctelecomaddress.htm
  */
 export class IfcTelecomAddress extends IfcAddress {
 	TelephoneNumbers : Array<IfcLabel> // optional

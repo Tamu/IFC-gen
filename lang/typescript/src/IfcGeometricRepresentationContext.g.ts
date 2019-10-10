@@ -12,7 +12,7 @@ import {IfcCoordinateOperation} from "./IfcCoordinateOperation.g"
 import {IfcRepresentationContext} from "./IfcRepresentationContext.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcgeometricrepresentationcontext.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcgeometricrepresentationcontext.htm
  */
 export class IfcGeometricRepresentationContext extends IfcRepresentationContext {
 	CoordinateSpaceDimension : IfcDimensionCount

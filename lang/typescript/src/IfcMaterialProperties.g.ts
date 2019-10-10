@@ -8,7 +8,7 @@ import {IfcMaterialDefinition} from "./IfcMaterialDefinition.g"
 import {IfcExtendedProperties} from "./IfcExtendedProperties.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcmaterialproperties.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcmaterialproperties.htm
  */
 export class IfcMaterialProperties extends IfcExtendedProperties {
 	Material : IfcMaterialDefinition

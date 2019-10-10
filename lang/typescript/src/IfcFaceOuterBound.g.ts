@@ -7,7 +7,7 @@ import {IfcBoolean} from "./IfcBoolean.g"
 import {IfcFaceBound} from "./IfcFaceBound.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcfaceouterbound.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcfaceouterbound.htm
  */
 export class IfcFaceOuterBound extends IfcFaceBound {
 

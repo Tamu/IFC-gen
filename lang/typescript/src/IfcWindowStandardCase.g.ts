@@ -32,7 +32,7 @@ import {IfcWindowTypePartitioningEnum} from "./IfcWindowTypePartitioningEnum.g"
 import {IfcWindow} from "./IfcWindow.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcwindowstandardcase.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcwindowstandardcase.htm
  */
 export class IfcWindowStandardCase extends IfcWindow {
 

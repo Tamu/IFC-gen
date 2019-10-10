@@ -123,7 +123,7 @@ import {IfcTimeStamp} from "./IfcTimeStamp.g"
 import {IfcConstraint} from "./IfcConstraint.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcmetric.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcmetric.htm
  */
 export class IfcMetric extends IfcConstraint {
 	Benchmark : IfcBenchmarkEnum

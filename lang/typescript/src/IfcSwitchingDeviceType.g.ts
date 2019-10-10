@@ -18,7 +18,7 @@ import {IfcSwitchingDeviceTypeEnum} from "./IfcSwitchingDeviceTypeEnum.g"
 import {IfcFlowControllerType} from "./IfcFlowControllerType.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcswitchingdevicetype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcswitchingdevicetype.htm
  */
 export class IfcSwitchingDeviceType extends IfcFlowControllerType {
 	PredefinedType : IfcSwitchingDeviceTypeEnum

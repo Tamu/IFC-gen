@@ -7,7 +7,7 @@ import {IfcCartesianPoint} from "./IfcCartesianPoint.g"
 import {IfcBoundedCurve} from "./IfcBoundedCurve.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcpolyline.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcpolyline.htm
  */
 export class IfcPolyline extends IfcBoundedCurve {
 	Points : Array<IfcCartesianPoint>

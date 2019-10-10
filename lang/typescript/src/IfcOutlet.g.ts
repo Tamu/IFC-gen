@@ -32,7 +32,7 @@ import {IfcOutletTypeEnum} from "./IfcOutletTypeEnum.g"
 import {IfcFlowTerminal} from "./IfcFlowTerminal.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcoutlet.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcoutlet.htm
  */
 export class IfcOutlet extends IfcFlowTerminal {
 	PredefinedType : IfcOutletTypeEnum // optional

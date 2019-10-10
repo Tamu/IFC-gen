@@ -9,7 +9,7 @@ import {IfcPositiveLengthMeasure} from "./IfcPositiveLengthMeasure.g"
 import {IfcCircleProfileDef} from "./IfcCircleProfileDef.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifccirclehollowprofiledef.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifccirclehollowprofiledef.htm
  */
 export class IfcCircleHollowProfileDef extends IfcCircleProfileDef {
 	WallThickness : IfcPositiveLengthMeasure

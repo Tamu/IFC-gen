@@ -11,7 +11,7 @@ import {IfcResourceApprovalRelationship} from "./IfcResourceApprovalRelationship
 import {IfcPropertyAbstraction} from "./IfcPropertyAbstraction.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcproperty.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcproperty.htm
  */
 export abstract class IfcProperty extends IfcPropertyAbstraction {
 	Name : IfcIdentifier

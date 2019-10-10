@@ -10,7 +10,7 @@ import {IfcLogical} from "./IfcLogical.g"
 import {IfcBoundedCurve} from "./IfcBoundedCurve.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcbsplinecurve.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcbsplinecurve.htm
  */
 export abstract class IfcBSplineCurve extends IfcBoundedCurve {
 	Degree : IfcInteger

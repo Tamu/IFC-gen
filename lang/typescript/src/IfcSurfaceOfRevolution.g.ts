@@ -10,7 +10,7 @@ import {IfcLine} from "./IfcLine.g"
 import {IfcSweptSurface} from "./IfcSweptSurface.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcsurfaceofrevolution.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcsurfaceofrevolution.htm
  */
 export class IfcSurfaceOfRevolution extends IfcSweptSurface {
 	AxisPosition : IfcAxis1Placement

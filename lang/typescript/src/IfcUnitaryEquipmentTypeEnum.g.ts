@@ -1,3 +1,3 @@
 
-//http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcunitaryequipmenttypeenum.htm
+//https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcunitaryequipmenttypeenum.htm
 export enum IfcUnitaryEquipmentTypeEnum {AIRHANDLER=".AIRHANDLER.",AIRCONDITIONINGUNIT=".AIRCONDITIONINGUNIT.",DEHUMIDIFIER=".DEHUMIDIFIER.",SPLITSYSTEM=".SPLITSYSTEM.",ROOFTOPUNIT=".ROOFTOPUNIT.",USERDEFINED=".USERDEFINED.",NOTDEFINED=".NOTDEFINED."}

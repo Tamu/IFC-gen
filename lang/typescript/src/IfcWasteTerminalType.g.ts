@@ -18,7 +18,7 @@ import {IfcWasteTerminalTypeEnum} from "./IfcWasteTerminalTypeEnum.g"
 import {IfcFlowTerminalType} from "./IfcFlowTerminalType.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcwasteterminaltype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcwasteterminaltype.htm
  */
 export class IfcWasteTerminalType extends IfcFlowTerminalType {
 	PredefinedType : IfcWasteTerminalTypeEnum

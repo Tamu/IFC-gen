@@ -32,7 +32,7 @@ import {IfcFanTypeEnum} from "./IfcFanTypeEnum.g"
 import {IfcFlowMovingDevice} from "./IfcFlowMovingDevice.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcfan.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcfan.htm
  */
 export class IfcFan extends IfcFlowMovingDevice {
 	PredefinedType : IfcFanTypeEnum // optional

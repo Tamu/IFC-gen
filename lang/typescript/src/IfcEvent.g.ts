@@ -21,7 +21,7 @@ import {IfcEventTime} from "./IfcEventTime.g"
 import {IfcProcess} from "./IfcProcess.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcevent.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcevent.htm
  */
 export class IfcEvent extends IfcProcess {
 	PredefinedType : IfcEventTypeEnum // optional

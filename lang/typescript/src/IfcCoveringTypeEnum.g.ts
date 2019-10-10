@@ -1,3 +1,3 @@
 
-//http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifccoveringtypeenum.htm
+//https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifccoveringtypeenum.htm
 export enum IfcCoveringTypeEnum {CEILING=".CEILING.",FLOORING=".FLOORING.",CLADDING=".CLADDING.",ROOFING=".ROOFING.",MOLDING=".MOLDING.",SKIRTINGBOARD=".SKIRTINGBOARD.",INSULATION=".INSULATION.",MEMBRANE=".MEMBRANE.",SLEEVING=".SLEEVING.",WRAPPING=".WRAPPING.",USERDEFINED=".USERDEFINED.",NOTDEFINED=".NOTDEFINED."}

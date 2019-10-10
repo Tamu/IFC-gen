@@ -18,7 +18,7 @@ import {IfcDiscreteAccessoryTypeEnum} from "./IfcDiscreteAccessoryTypeEnum.g"
 import {IfcElementComponentType} from "./IfcElementComponentType.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcdiscreteaccessorytype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcdiscreteaccessorytype.htm
  */
 export class IfcDiscreteAccessoryType extends IfcElementComponentType {
 	PredefinedType : IfcDiscreteAccessoryTypeEnum

@@ -110,7 +110,7 @@ import {IfcTime} from "./IfcTime.g"
 import {IfcTimeStamp} from "./IfcTimeStamp.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcirregulartimeseriesvalue.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcirregulartimeseriesvalue.htm
  */
 export class IfcIrregularTimeSeriesValue extends BaseIfc {
 	TimeStamp : IfcDateTime

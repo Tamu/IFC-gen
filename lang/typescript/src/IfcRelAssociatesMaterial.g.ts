@@ -12,7 +12,7 @@ import {IfcMaterialUsageDefinition} from "./IfcMaterialUsageDefinition.g"
 import {IfcRelAssociates} from "./IfcRelAssociates.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcrelassociatesmaterial.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcrelassociatesmaterial.htm
  */
 export class IfcRelAssociatesMaterial extends IfcRelAssociates {
 	RelatingMaterial : IfcMaterialDefinition|IfcMaterialList|IfcMaterialUsageDefinition

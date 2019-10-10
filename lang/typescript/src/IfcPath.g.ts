@@ -6,7 +6,7 @@ import {IfcOrientedEdge} from "./IfcOrientedEdge.g"
 import {IfcTopologicalRepresentationItem} from "./IfcTopologicalRepresentationItem.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcpath.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcpath.htm
  */
 export class IfcPath extends IfcTopologicalRepresentationItem {
 	EdgeList : Array<IfcOrientedEdge>

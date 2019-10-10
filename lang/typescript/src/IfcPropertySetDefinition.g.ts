@@ -12,7 +12,7 @@ import {IfcRelDefinesByProperties} from "./IfcRelDefinesByProperties.g"
 import {IfcPropertyDefinition} from "./IfcPropertyDefinition.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcpropertysetdefinition.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcpropertysetdefinition.htm
  */
 export abstract class IfcPropertySetDefinition extends IfcPropertyDefinition {
 	DefinesType : Array<IfcTypeObject> // inverse

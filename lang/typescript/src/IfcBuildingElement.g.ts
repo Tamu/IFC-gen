@@ -29,7 +29,7 @@ import {IfcRelCoversBldgElements} from "./IfcRelCoversBldgElements.g"
 import {IfcElement} from "./IfcElement.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcbuildingelement.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcbuildingelement.htm
  */
 export abstract class IfcBuildingElement extends IfcElement {
 

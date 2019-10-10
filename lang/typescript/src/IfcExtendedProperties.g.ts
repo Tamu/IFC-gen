@@ -7,7 +7,7 @@ import {IfcProperty} from "./IfcProperty.g"
 import {IfcPropertyAbstraction} from "./IfcPropertyAbstraction.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcextendedproperties.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcextendedproperties.htm
  */
 export abstract class IfcExtendedProperties extends IfcPropertyAbstraction {
 	Name : IfcIdentifier // optional

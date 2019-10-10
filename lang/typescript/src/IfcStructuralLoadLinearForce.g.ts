@@ -6,7 +6,7 @@ import {IfcLinearMomentMeasure} from "./IfcLinearMomentMeasure.g"
 import {IfcStructuralLoadStatic} from "./IfcStructuralLoadStatic.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcstructuralloadlinearforce.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcstructuralloadlinearforce.htm
  */
 export class IfcStructuralLoadLinearForce extends IfcStructuralLoadStatic {
 	LinearForceX : IfcLinearForceMeasure // optional

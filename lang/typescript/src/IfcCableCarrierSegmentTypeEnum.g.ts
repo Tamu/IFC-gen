@@ -1,3 +1,3 @@
 
-//http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifccablecarriersegmenttypeenum.htm
+//https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifccablecarriersegmenttypeenum.htm
 export enum IfcCableCarrierSegmentTypeEnum {CABLELADDERSEGMENT=".CABLELADDERSEGMENT.",CABLETRAYSEGMENT=".CABLETRAYSEGMENT.",CABLETRUNKINGSEGMENT=".CABLETRUNKINGSEGMENT.",CONDUITSEGMENT=".CONDUITSEGMENT.",USERDEFINED=".USERDEFINED.",NOTDEFINED=".NOTDEFINED."}

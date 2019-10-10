@@ -10,7 +10,7 @@ import {IfcBoolean} from "./IfcBoolean.g"
 import {IfcPresentationStyle} from "./IfcPresentationStyle.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcfillareastyle.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcfillareastyle.htm
  */
 export class IfcFillAreaStyle extends IfcPresentationStyle {
 	FillStyles : Array<IfcColourSpecification|IfcPreDefinedColour|IfcExternallyDefinedHatchStyle|IfcFillAreaStyleHatching|IfcFillAreaStyleTiles>

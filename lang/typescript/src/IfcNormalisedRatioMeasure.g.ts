@@ -2,5 +2,5 @@
 import {BaseIfc} from "./BaseIfc"
 import {IfcRatioMeasure} from "./IfcRatioMeasure.g"
 
-// http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcnormalisedratiomeasure.htm
+// https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcnormalisedratiomeasure.htm
 export type IfcNormalisedRatioMeasure = IfcRatioMeasure

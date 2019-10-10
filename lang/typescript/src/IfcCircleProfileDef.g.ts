@@ -9,7 +9,7 @@ import {IfcPositiveLengthMeasure} from "./IfcPositiveLengthMeasure.g"
 import {IfcParameterizedProfileDef} from "./IfcParameterizedProfileDef.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifccircleprofiledef.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifccircleprofiledef.htm
  */
 export class IfcCircleProfileDef extends IfcParameterizedProfileDef {
 	Radius : IfcPositiveLengthMeasure

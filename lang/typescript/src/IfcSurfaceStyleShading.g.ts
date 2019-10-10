@@ -5,7 +5,7 @@ import {IfcNormalisedRatioMeasure} from "./IfcNormalisedRatioMeasure.g"
 import {IfcPresentationItem} from "./IfcPresentationItem.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcsurfacestyleshading.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcsurfacestyleshading.htm
  */
 export class IfcSurfaceStyleShading extends IfcPresentationItem {
 	SurfaceColour : IfcColourRgb

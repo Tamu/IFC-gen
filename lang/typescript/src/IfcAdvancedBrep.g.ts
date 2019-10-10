@@ -7,7 +7,7 @@ import {IfcClosedShell} from "./IfcClosedShell.g"
 import {IfcManifoldSolidBrep} from "./IfcManifoldSolidBrep.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcadvancedbrep.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcadvancedbrep.htm
  */
 export class IfcAdvancedBrep extends IfcManifoldSolidBrep {
 

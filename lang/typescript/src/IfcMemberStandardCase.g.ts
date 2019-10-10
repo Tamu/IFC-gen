@@ -30,7 +30,7 @@ import {IfcMemberTypeEnum} from "./IfcMemberTypeEnum.g"
 import {IfcMember} from "./IfcMember.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcmemberstandardcase.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcmemberstandardcase.htm
  */
 export class IfcMemberStandardCase extends IfcMember {
 

@@ -16,7 +16,7 @@ import {IfcBoolean} from "./IfcBoolean.g"
 import {IfcPresentationStyle} from "./IfcPresentationStyle.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifccurvestyle.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifccurvestyle.htm
  */
 export class IfcCurveStyle extends IfcPresentationStyle {
 	CurveFont : IfcCurveStyleFontAndScaling|IfcCurveStyleFont|IfcPreDefinedCurveFont // optional

@@ -18,7 +18,7 @@ import {IfcPermitTypeEnum} from "./IfcPermitTypeEnum.g"
 import {IfcControl} from "./IfcControl.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcpermit.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcpermit.htm
  */
 export class IfcPermit extends IfcControl {
 	PredefinedType : IfcPermitTypeEnum // optional

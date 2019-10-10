@@ -4,7 +4,7 @@ import {IfcParameterValue} from "./IfcParameterValue.g"
 import {IfcPresentationItem} from "./IfcPresentationItem.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifctexturevertexlist.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifctexturevertexlist.htm
  */
 export class IfcTextureVertexList extends IfcPresentationItem {
 	TexCoordsList : Array<Array<IfcParameterValue>>

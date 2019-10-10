@@ -9,7 +9,7 @@ import {IfcDimensionCount} from "./IfcDimensionCount.g"
 import {IfcGeometricSet} from "./IfcGeometricSet.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcgeometriccurveset.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcgeometriccurveset.htm
  */
 export class IfcGeometricCurveSet extends IfcGeometricSet {
 

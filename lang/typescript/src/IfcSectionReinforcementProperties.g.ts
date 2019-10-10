@@ -8,7 +8,7 @@ import {IfcReinforcementBarProperties} from "./IfcReinforcementBarProperties.g"
 import {IfcPreDefinedProperties} from "./IfcPreDefinedProperties.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcsectionreinforcementproperties.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcsectionreinforcementproperties.htm
  */
 export class IfcSectionReinforcementProperties extends IfcPreDefinedProperties {
 	LongitudinalStartPosition : IfcLengthMeasure

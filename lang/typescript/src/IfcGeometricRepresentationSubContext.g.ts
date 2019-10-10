@@ -13,7 +13,7 @@ import {IfcPositiveRatioMeasure} from "./IfcPositiveRatioMeasure.g"
 import {IfcGeometricProjectionEnum} from "./IfcGeometricProjectionEnum.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcgeometricrepresentationsubcontext.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcgeometricrepresentationsubcontext.htm
  */
 export class IfcGeometricRepresentationSubContext extends IfcGeometricRepresentationContext {
 	ParentContext : IfcGeometricRepresentationContext

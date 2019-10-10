@@ -8,7 +8,7 @@ import {IfcCsgPrimitive3D} from "./IfcCsgPrimitive3D.g"
 import {IfcSolidModel} from "./IfcSolidModel.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifccsgsolid.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifccsgsolid.htm
  */
 export class IfcCsgSolid extends IfcSolidModel {
 	TreeRootExpression : IfcBooleanResult|IfcCsgPrimitive3D

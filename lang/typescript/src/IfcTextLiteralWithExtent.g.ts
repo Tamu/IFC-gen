@@ -11,7 +11,7 @@ import {IfcBoxAlignment} from "./IfcBoxAlignment.g"
 import {IfcTextLiteral} from "./IfcTextLiteral.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifctextliteralwithextent.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifctextliteralwithextent.htm
  */
 export class IfcTextLiteralWithExtent extends IfcTextLiteral {
 	Extent : IfcPlanarExtent

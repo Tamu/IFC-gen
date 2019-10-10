@@ -4,7 +4,7 @@ import {IfcLabel} from "./IfcLabel.g"
 import {IfcPresentationItem} from "./IfcPresentationItem.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifccolourspecification.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifccolourspecification.htm
  */
 export abstract class IfcColourSpecification extends IfcPresentationItem {
 	Name : IfcLabel // optional

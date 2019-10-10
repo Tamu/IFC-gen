@@ -8,7 +8,7 @@ import {IfcSurfaceStyleWithTextures} from "./IfcSurfaceStyleWithTextures.g"
 import {IfcPresentationItem} from "./IfcPresentationItem.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcsurfacetexture.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcsurfacetexture.htm
  */
 export abstract class IfcSurfaceTexture extends IfcPresentationItem {
 	RepeatS : IfcBoolean

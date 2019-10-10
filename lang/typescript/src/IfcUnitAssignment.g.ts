@@ -5,7 +5,7 @@ import {IfcMonetaryUnit} from "./IfcMonetaryUnit.g"
 import {IfcNamedUnit} from "./IfcNamedUnit.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcunitassignment.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcunitassignment.htm
  */
 export class IfcUnitAssignment extends BaseIfc {
 	Units : Array<IfcDerivedUnit|IfcMonetaryUnit|IfcNamedUnit>

@@ -6,7 +6,7 @@ import {IfcIdentifier} from "./IfcIdentifier.g"
 import {IfcCoordinateOperation} from "./IfcCoordinateOperation.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifccoordinatereferencesystem.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifccoordinatereferencesystem.htm
  */
 export abstract class IfcCoordinateReferenceSystem extends BaseIfc {
 	Name : IfcLabel

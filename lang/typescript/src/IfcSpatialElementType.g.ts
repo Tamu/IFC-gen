@@ -17,7 +17,7 @@ import {IfcRelAssignsToProduct} from "./IfcRelAssignsToProduct.g"
 import {IfcTypeProduct} from "./IfcTypeProduct.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcspatialelementtype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcspatialelementtype.htm
  */
 export abstract class IfcSpatialElementType extends IfcTypeProduct {
 	ElementType : IfcLabel // optional

@@ -11,7 +11,7 @@ import {IfcActorRole} from "./IfcActorRole.g"
 import {IfcRelAssigns} from "./IfcRelAssigns.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcrelassignstoactor.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcrelassignstoactor.htm
  */
 export class IfcRelAssignsToActor extends IfcRelAssigns {
 	RelatingActor : IfcActor

@@ -32,7 +32,7 @@ import {IfcUnitaryEquipmentTypeEnum} from "./IfcUnitaryEquipmentTypeEnum.g"
 import {IfcEnergyConversionDevice} from "./IfcEnergyConversionDevice.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcunitaryequipment.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcunitaryequipment.htm
  */
 export class IfcUnitaryEquipment extends IfcEnergyConversionDevice {
 	PredefinedType : IfcUnitaryEquipmentTypeEnum // optional

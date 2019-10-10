@@ -6,7 +6,7 @@ import {IfcFace} from "./IfcFace.g"
 import {IfcTextureCoordinate} from "./IfcTextureCoordinate.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifctexturemap.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifctexturemap.htm
  */
 export class IfcTextureMap extends IfcTextureCoordinate {
 	Vertices : Array<IfcTextureVertex>

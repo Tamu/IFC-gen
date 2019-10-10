@@ -30,7 +30,7 @@ import {IfcSurfaceFeatureTypeEnum} from "./IfcSurfaceFeatureTypeEnum.g"
 import {IfcFeatureElement} from "./IfcFeatureElement.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcsurfacefeature.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcsurfacefeature.htm
  */
 export class IfcSurfaceFeature extends IfcFeatureElement {
 	PredefinedType : IfcSurfaceFeatureTypeEnum // optional

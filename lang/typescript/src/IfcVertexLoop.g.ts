@@ -6,7 +6,7 @@ import {IfcVertex} from "./IfcVertex.g"
 import {IfcLoop} from "./IfcLoop.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcvertexloop.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcvertexloop.htm
  */
 export class IfcVertexLoop extends IfcLoop {
 	LoopVertex : IfcVertex

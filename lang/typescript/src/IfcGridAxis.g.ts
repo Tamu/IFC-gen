@@ -7,7 +7,7 @@ import {IfcGrid} from "./IfcGrid.g"
 import {IfcVirtualGridIntersection} from "./IfcVirtualGridIntersection.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcgridaxis.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcgridaxis.htm
  */
 export class IfcGridAxis extends BaseIfc {
 	AxisTag : IfcLabel // optional

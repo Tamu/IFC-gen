@@ -7,7 +7,7 @@ import {IfcDate} from "./IfcDate.g"
 import {IfcSchedulingTime} from "./IfcSchedulingTime.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcworktime.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcworktime.htm
  */
 export class IfcWorkTime extends IfcSchedulingTime {
 	RecurrencePattern : IfcRecurrencePattern // optional

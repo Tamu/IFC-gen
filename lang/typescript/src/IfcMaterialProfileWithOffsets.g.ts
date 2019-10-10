@@ -13,7 +13,7 @@ import {IfcLengthMeasure} from "./IfcLengthMeasure.g"
 import {IfcMaterialProfile} from "./IfcMaterialProfile.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcmaterialprofilewithoffsets.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcmaterialprofilewithoffsets.htm
  */
 export class IfcMaterialProfileWithOffsets extends IfcMaterialProfile {
 	OffsetValues : Array<IfcLengthMeasure>

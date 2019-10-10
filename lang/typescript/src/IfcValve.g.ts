@@ -32,7 +32,7 @@ import {IfcValveTypeEnum} from "./IfcValveTypeEnum.g"
 import {IfcFlowController} from "./IfcFlowController.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcvalve.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcvalve.htm
  */
 export class IfcValve extends IfcFlowController {
 	PredefinedType : IfcValveTypeEnum // optional

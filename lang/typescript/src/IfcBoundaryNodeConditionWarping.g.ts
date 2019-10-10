@@ -8,7 +8,7 @@ import {IfcWarpingMomentMeasure} from "./IfcWarpingMomentMeasure.g"
 import {IfcBoundaryNodeCondition} from "./IfcBoundaryNodeCondition.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcboundarynodeconditionwarping.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcboundarynodeconditionwarping.htm
  */
 export class IfcBoundaryNodeConditionWarping extends IfcBoundaryNodeCondition {
 	WarpingStiffness : IfcBoolean|IfcWarpingMomentMeasure // optional

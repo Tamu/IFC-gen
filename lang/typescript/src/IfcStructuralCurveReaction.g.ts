@@ -22,7 +22,7 @@ import {IfcStructuralCurveActivityTypeEnum} from "./IfcStructuralCurveActivityTy
 import {IfcStructuralReaction} from "./IfcStructuralReaction.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcstructuralcurvereaction.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcstructuralcurvereaction.htm
  */
 export class IfcStructuralCurveReaction extends IfcStructuralReaction {
 	PredefinedType : IfcStructuralCurveActivityTypeEnum

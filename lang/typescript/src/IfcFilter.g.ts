@@ -32,7 +32,7 @@ import {IfcFilterTypeEnum} from "./IfcFilterTypeEnum.g"
 import {IfcFlowTreatmentDevice} from "./IfcFlowTreatmentDevice.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcfilter.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcfilter.htm
  */
 export class IfcFilter extends IfcFlowTreatmentDevice {
 	PredefinedType : IfcFilterTypeEnum // optional

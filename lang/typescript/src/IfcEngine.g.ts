@@ -32,7 +32,7 @@ import {IfcEngineTypeEnum} from "./IfcEngineTypeEnum.g"
 import {IfcEnergyConversionDevice} from "./IfcEnergyConversionDevice.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcengine.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcengine.htm
  */
 export class IfcEngine extends IfcEnergyConversionDevice {
 	PredefinedType : IfcEngineTypeEnum // optional

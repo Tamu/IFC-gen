@@ -9,7 +9,7 @@ import {IfcBoolean} from "./IfcBoolean.g"
 import {IfcFace} from "./IfcFace.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcfacesurface.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcfacesurface.htm
  */
 export class IfcFaceSurface extends IfcFace {
 	FaceSurface : IfcSurface

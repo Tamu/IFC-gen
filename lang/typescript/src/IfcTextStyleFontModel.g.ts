@@ -14,7 +14,7 @@ import {IfcRatioMeasure} from "./IfcRatioMeasure.g"
 import {IfcPreDefinedTextFont} from "./IfcPreDefinedTextFont.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifctextstylefontmodel.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifctextstylefontmodel.htm
  */
 export class IfcTextStyleFontModel extends IfcPreDefinedTextFont {
 	FontFamily : Array<IfcTextFontName>

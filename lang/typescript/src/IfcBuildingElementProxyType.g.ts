@@ -18,7 +18,7 @@ import {IfcBuildingElementProxyTypeEnum} from "./IfcBuildingElementProxyTypeEnum
 import {IfcBuildingElementType} from "./IfcBuildingElementType.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcbuildingelementproxytype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcbuildingelementproxytype.htm
  */
 export class IfcBuildingElementProxyType extends IfcBuildingElementType {
 	PredefinedType : IfcBuildingElementProxyTypeEnum

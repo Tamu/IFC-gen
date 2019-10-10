@@ -32,7 +32,7 @@ import {IfcHumidifierTypeEnum} from "./IfcHumidifierTypeEnum.g"
 import {IfcEnergyConversionDevice} from "./IfcEnergyConversionDevice.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifchumidifier.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifchumidifier.htm
  */
 export class IfcHumidifier extends IfcEnergyConversionDevice {
 	PredefinedType : IfcHumidifierTypeEnum // optional

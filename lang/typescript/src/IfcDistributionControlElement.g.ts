@@ -31,7 +31,7 @@ import {IfcRelFlowControlElements} from "./IfcRelFlowControlElements.g"
 import {IfcDistributionElement} from "./IfcDistributionElement.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcdistributioncontrolelement.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcdistributioncontrolelement.htm
  */
 export class IfcDistributionControlElement extends IfcDistributionElement {
 	AssignedToFlowElement : Array<IfcRelFlowControlElements> // inverse

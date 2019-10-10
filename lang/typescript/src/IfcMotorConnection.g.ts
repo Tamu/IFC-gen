@@ -32,7 +32,7 @@ import {IfcMotorConnectionTypeEnum} from "./IfcMotorConnectionTypeEnum.g"
 import {IfcEnergyConversionDevice} from "./IfcEnergyConversionDevice.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcmotorconnection.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcmotorconnection.htm
  */
 export class IfcMotorConnection extends IfcEnergyConversionDevice {
 	PredefinedType : IfcMotorConnectionTypeEnum // optional

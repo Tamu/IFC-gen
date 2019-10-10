@@ -9,7 +9,7 @@ import {IfcDistributionElement} from "./IfcDistributionElement.g"
 import {IfcRelConnects} from "./IfcRelConnects.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcrelconnectsporttoelement.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcrelconnectsporttoelement.htm
  */
 export class IfcRelConnectsPortToElement extends IfcRelConnects {
 	RelatingPort : IfcPort

@@ -18,7 +18,7 @@ import {IfcColumnTypeEnum} from "./IfcColumnTypeEnum.g"
 import {IfcBuildingElementType} from "./IfcBuildingElementType.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifccolumntype.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifccolumntype.htm
  */
 export class IfcColumnType extends IfcBuildingElementType {
 	PredefinedType : IfcColumnTypeEnum

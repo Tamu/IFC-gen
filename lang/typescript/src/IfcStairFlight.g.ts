@@ -32,7 +32,7 @@ import {IfcStairFlightTypeEnum} from "./IfcStairFlightTypeEnum.g"
 import {IfcBuildingElement} from "./IfcBuildingElement.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcstairflight.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcstairflight.htm
  */
 export class IfcStairFlight extends IfcBuildingElement {
 	NumberOfRisers : IfcInteger // optional

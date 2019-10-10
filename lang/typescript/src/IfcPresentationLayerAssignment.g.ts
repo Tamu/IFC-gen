@@ -7,7 +7,7 @@ import {IfcRepresentationItem} from "./IfcRepresentationItem.g"
 import {IfcIdentifier} from "./IfcIdentifier.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcpresentationlayerassignment.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcpresentationlayerassignment.htm
  */
 export class IfcPresentationLayerAssignment extends BaseIfc {
 	Name : IfcLabel

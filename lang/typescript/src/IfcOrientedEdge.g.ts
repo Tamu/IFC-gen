@@ -7,7 +7,7 @@ import {IfcEdge} from "./IfcEdge.g"
 import {IfcBoolean} from "./IfcBoolean.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcorientededge.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcorientededge.htm
  */
 export class IfcOrientedEdge extends IfcEdge {
 	EdgeElement : IfcEdge

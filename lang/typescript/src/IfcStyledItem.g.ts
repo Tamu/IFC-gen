@@ -7,7 +7,7 @@ import {IfcPresentationStyleAssignment} from "./IfcPresentationStyleAssignment.g
 import {IfcLabel} from "./IfcLabel.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcstyleditem.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcstyleditem.htm
  */
 export class IfcStyledItem extends IfcRepresentationItem {
 	Item : IfcRepresentationItem // optional

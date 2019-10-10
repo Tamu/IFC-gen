@@ -11,7 +11,7 @@ import {IfcNamedUnit} from "./IfcNamedUnit.g"
 import {IfcExternalReferenceRelationship} from "./IfcExternalReferenceRelationship.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifctimeseries.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifctimeseries.htm
  */
 export abstract class IfcTimeSeries extends BaseIfc {
 	Name : IfcLabel

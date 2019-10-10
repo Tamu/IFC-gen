@@ -32,7 +32,7 @@ import {IfcControllerTypeEnum} from "./IfcControllerTypeEnum.g"
 import {IfcDistributionControlElement} from "./IfcDistributionControlElement.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifccontroller.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifccontroller.htm
  */
 export class IfcController extends IfcDistributionControlElement {
 	PredefinedType : IfcControllerTypeEnum // optional

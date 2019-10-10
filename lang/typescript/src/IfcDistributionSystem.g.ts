@@ -18,7 +18,7 @@ import {IfcDistributionSystemEnum} from "./IfcDistributionSystemEnum.g"
 import {IfcSystem} from "./IfcSystem.g"
 
 /**
- * http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcdistributionsystem.htm
+ * https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2/HTML/link/ifcdistributionsystem.htm
  */
 export class IfcDistributionSystem extends IfcSystem {
 	LongName : IfcLabel // optional
